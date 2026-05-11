@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "fr-FRANCE"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Samy Mkhinini"
 title_separator          : "-"
 name                     : &name "Samy Mkhinini"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Grosso modo, je m’intéresse à la théorie algébrique des nombres. Plus précisément, je m'intéresse aux courbes elliptiques, à la théorie d'Iwasawa, aux systèmes d'Euler, aux fonctions L p-adiques et à la théorie de la déformation des représentations de Galois."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://Samy-Mkhinini.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -30,7 +30,7 @@ author:
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "samymkhinini27@gmail.com" 
 
   # Academic websites
   academia         : # URL
