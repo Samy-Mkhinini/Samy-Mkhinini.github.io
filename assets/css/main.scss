@@ -43,5 +43,8 @@
 ;
 
 .author__avatar img {
-  border-radius: 14px !important;
+  width: 175px !important;
+  height: 130px !important;
+  object-fit: cover !important;
+  border-radius: 12px !important;
 }
