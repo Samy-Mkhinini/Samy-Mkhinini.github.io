@@ -9,7 +9,7 @@
 
 main:
   - title: "Recherche"
-    url: /mes-ecrits/
+    url: /recherche/
 
   - title: "Exposés et séminaires"
     url: /exposes-et-seminaires/    
