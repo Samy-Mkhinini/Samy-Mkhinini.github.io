@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "fr-FR"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Samy Mkhinini"
 title_separator          : "-"
 name                     : &name "Samy Mkhinini"
@@ -23,7 +23,7 @@ repository               : "Samy-Mkhinini/Samy-Mkhinini.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1238.JPG"
+  avatar           : "IMG_0117.jpeg"
   name             : "Samy Mkhinini"
   pronouns         : "he/his"  
   bio              : "Étudiant en mathématiques fondamentales, diplômé d'un M2 Recherche en Algèbre, Géométrie et Théorie des Nombres. 
