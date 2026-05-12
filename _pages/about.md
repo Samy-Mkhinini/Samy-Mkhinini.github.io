@@ -18,7 +18,7 @@ Stage de recherche de M2 (encadré par [Denis Benois](<https://www.math.u-bordea
 - Thèmes abordés : théorie d'Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), systèmes d'Euler, points de Heegner, travaux de Kolyvagin sur les courbes elliptiques modulaires et dualité de Poitou-Tate.
 
 
-Quelques ressources utiles pour découvrir les thèmes abordés durant mon stage de M2
+Quelques ressources utiles pour découvrir les thèmes étudiés durant mon stage de M2
 ======
 
 - [Iwasawa theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
