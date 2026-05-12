@@ -15,9 +15,6 @@ A data-driven personal website
 ======
 
 
-Soit \(E\) la courbe elliptique d'équation : \[ y^2 = x^3 + x - 1.\]
-
-
 
 Getting started
 ======
