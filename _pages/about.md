@@ -21,7 +21,7 @@ Stage de recherche de M2 (encadré par [Denis Benois](<https://www.math.u-bordea
 Quelques ressources utiles pour découvrir les thèmes abordés durant mon stage de M2
 ======
 
-- Extrait de mon mémoire de M2 : [Dualité de Poitou-Tate](/files/Extrait mémoire M2, Mkhinini.pdf)
+- Extrait de mon mémoire de M2 : [Dualité de Poitou-Tate](/files/Extrait memoire M2, Mkhinini.pdf)
 - [Iwasawa theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
 - [Iwasawa theory for elliptic curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
 - [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
