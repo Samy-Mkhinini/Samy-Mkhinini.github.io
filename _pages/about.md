@@ -21,11 +21,12 @@ Stage de recherche de M2 (encadré par [Denis Benois](<https://www.math.u-bordea
 Quelques ressources utiles pour découvrir les thèmes abordés durant mon stage de M2
 ======
 
+- [Dualité de Poitou-Tate, S. Mkhinini](/files/Extrait mémoire M2, Mkhinini.pdf)
 - [Iwasawa theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
 - [Iwasawa theory for elliptic curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
-- 
-- 
-- 
+- [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
+- [Heegner points on X_0(N), B. H. Gross](/files/Heegner points on X_0(N), Gross.pdf)
+- [Heegner points and derivatives of L-series, B. H. Gross & D. B. Zagier](/files/Heegner points and derivatives of L-series, Gross.pdf)
 - 
 - 
 - 
