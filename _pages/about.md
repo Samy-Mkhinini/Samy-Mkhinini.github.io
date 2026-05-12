@@ -22,7 +22,9 @@ Quelques ressources utiles pour découvrir les (magnifiques) maths sur lesquelle
 ======
 
 - Extrait de mon mémoire de M2 : [Dualité de Poitou-Tate](/files/Extrait memoire M2, Mkhinini.pdf)
-- Mon article préféré ^^ :[Kolyvagin's work on modular elliptic curves, B.H. Gross](/files/Kolyvagin's work on modular elliptic curves, Gross.pdf)
+- Mon article préféré ^^ : [Kolyvagin's work on modular elliptic curves, B.H. Gross](/files/Kolyvagin's work on modular elliptic curves, Gross.pdf)
+- Pour lire les premiersres de ce qui deviendra les "déformations" : [A modular construction of unramified p-extensions of Q(μ_p), K. A. Ribet](/files/A modular construction of unramified p-extensions of Q(μ_p), Ribet.pdf)
+- Construction des fonctions L p-adiques : [On p-adic analogues of the conjectures of Birch and Swinnerton-Dyer, B. Mazur](/files/On p-adic analogues of the conjectures of Birch and Swinnerton-Dyer, Mazur.pdf)
 - [Iwasawa theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
 - [Iwasawa theory for elliptic curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
 - [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
@@ -31,7 +33,6 @@ Quelques ressources utiles pour découvrir les (magnifiques) maths sur lesquelle
 - [Heegner points and derivatives of L-series, B. H. Gross & D. B. Zagier](/files/Heegner points and derivatives of L-series, Gross.pdf)
 - [The work of Gross and Zagier on Heegner points and the derivatives of L-series, J. Coates](/files/The work of Gross and Zagier on Heegner points and the derivatives of L-series, Coates.pdf)
 - [Rational points on modular elliptic curves, H. Darmon](/files/Rational points on modular elliptic curves, Darmon.pdf)
-- [On p-adic analogues of the conjectures of Birch and Swinnerton-Dyer, B. Mazur](/files/On p-adic analogues of the conjectures of Birch and Swinnerton-Dyer, Mazur.pdf)
-- [A modular construction of unramified p-extensions of Q(μ_p), K. Ribet](/files/A modular construction of unramified p-extensions of Q(μ_p), Ribet.pdf)
+
 
 
