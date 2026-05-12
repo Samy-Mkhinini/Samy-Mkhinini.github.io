@@ -28,7 +28,7 @@ Quelques ressources pour découvrir les (magnifiques) maths sur lesquelles je tr
 - [Iwasawa theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
 - [Iwasawa theory for elliptic curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
 - [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
-- [Machinerie générale des systèmes d'Euler, G. Chenevier](/files/Machinerie generale des systèmes d'Euler - Preuves de Kolyvagin et Rubin, Chenevier.pdf)
+- [Machinerie générale des systèmes d'Euler, G. Chenevier](/files/Machinerie generale des systèmes d'Euler, Chenevier.pdf)
 - [Heegner points on X0(N), B. H. Gross](/files/Heegner points on X_0(N), Gross.pdf)
 - [Heegner points and derivatives of L-series, B. H. Gross & D. B. Zagier](/files/Heegner points and derivatives of L-series, Gross.pdf)
 - [The work of Gross and Zagier on Heegner points and the derivatives of L-series, J. Coates](/files/The work of Gross and Zagier on Heegner points and the derivatives of L-series, Coates.pdf)
