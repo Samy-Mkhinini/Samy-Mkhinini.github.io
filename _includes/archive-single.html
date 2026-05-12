@@ -1,111 +1,131 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2869
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\froman\fcharset0 Times-Bold;\f2\froman\fcharset0 Times-Italic;
-}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue233;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c93333;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
-
-\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
-\{% include base_path %\} \{% if post.header.teaser %\} \{% capture teaser %\}\{\{ post.header.teaser \}\}\{% endcapture %\} \{% else %\} \{% assign teaser = site.teaser %\} \{% endif %\} \{% if post.id %\} \{% assign title = post.title | markdownify | remove: "\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 " | remove: "\
-\pard\pardeftab720\partightenfactor0
-\cf0 " %\} \{% else %\} \{% assign title = post.title %\} \{% endif %\}\
-\{% if include.type == "grid" and teaser %\}\
-\
-\{% endif %\}
-\f1\b\fs36 \
-\pard\pardeftab720\sa298\partightenfactor0
-\cf0 \{% if post.link %\} {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.link%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 \{\{ title \}\}}} {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20base_path%20%7D%7D%7B%7B%20post.url%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Permalink}} \{% else %\} {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20base_path%20%7D%7D%7B%7B%20post.url%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 \{\{ title \}\}}} \{% endif %\}\
-\pard\pardeftab720\partightenfactor0
-
-\f0\b0\fs24 \cf0 \{% if post.read_time %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 \{% include read-time.html %\}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% endif %\} \{% if post.collection == 'teaching' %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 \{\{ post.type \}\}, 
-\f2\i \{\{ post.venue \}\}
-\f0\i0 , \{\{ post.date | default: "1900-01-01" | date: "%Y" \}\}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% elsif post.collection == 'publications' %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 Published in 
-\f2\i \{\{ post.venue \}\}
-\f0\i0 , \{\{ post.date | default: "1900-01-01" | date: "%Y" \}\}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% elsif post.date %\}\
-\{\{ site.data.ui-text[site.locale].date_label | default: "Published:" \}\} \{\{ post.date | default: "1900-01-01" | date: "%B %d, %Y" \}\}\
-\
-\{% endif %\} \{% if post.excerpt and site.read_more != 'enabled' %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 \{\{ post.excerpt | markdownify \}\}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% elsif post.excerpt and site.read_more == 'enabled' %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 \
-\{\{ post.excerpt | markdownify | remove: '\
-' | remove: '\
-\pard\pardeftab720\partightenfactor0
-\cf0 ' \}\}{\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20base_path%20%7D%7D%7B%7B%20post.url%20%7D%7D"}}{\fldrslt 
-\f1\b \cf2 \ul \ulc2  Read more}}\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 \
-\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% endif %\} \{% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 Recommended citation: \{\{ post.citation \}\}\uc0\u8232 {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.paperurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Paper}} | {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.slidesurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Slides}} | {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.bibtexurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Bibtex}}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% elsif post.citation and post.paperurl and post.slidesurl %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 Recommended citation: \{\{ post.citation \}\}\uc0\u8232 {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.paperurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Paper}} | {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.slidesurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Slides}}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% elsif post.citation and post.paperurl and post.bibtexurl %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 Recommended citation: \{\{ post.citation \}\}\uc0\u8232 {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.paperurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Paper}} | {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.bibtexurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Bibtex}}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% elsif post.citation and post.paperurl %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 Recommended citation: \{\{ post.citation \}\}\uc0\u8232 {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.paperurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Paper}}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% elsif post.citation and post.slidesurl and post.bibtexurl %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 Recommended citation: \{\{ post.citation \}\}\uc0\u8232 {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.slidesurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Slides}} | {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.bibtexurl%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Bibtex}}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% elsif post.citation and post.slidesurl %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 Recommended citation: \{\{ post.citation \}\}\uc0\u8232 {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.slidesurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Slides}}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% elsif post.citation and post.bibtexurl %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 Recommended citation: \{\{ post.citation \}\}\uc0\u8232 {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.bibtexurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Bibtex}}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% elsif post.citation %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 Recommended citation: \{\{ post.citation \}\}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% elsif post.paperurl and post.bibtexurl %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-{\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.paperurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Paper}} | {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.bibtexurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Bibtex}}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% elsif post.paperurl %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-{\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.paperurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Paper}}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% elsif post.slidesurl and post.bibtexurl %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-{\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.slidesurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Slides}} | {\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.bibtexurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Bibtex}}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% elsif post.slidesurl %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-{\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.slidesurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Slides}}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% elsif post.bibtexurl %\}\
-\pard\pardeftab720\sa240\partightenfactor0
-{\field{\*\fldinst{HYPERLINK "file:///Users/samymkhinini/Documents/GitHub/Samy-Mkhinini.github.io/_includes/%7B%7B%20post.bibtexurl%20%7D%7D"}}{\fldrslt \cf2 \ul \ulc2 Download Bibtex}}\
-\pard\pardeftab720\partightenfactor0
-\cf0 \{% endif %\}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2685.5">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{% include base_path %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% if post.header.teaser %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% capture teaser %}{{ post.header.teaser }}{% endcapture %}</span></p>
+<p class="p1"><span class="s1">{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% assign teaser = site.teaser %}</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% if post.id %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% assign title = post.title | markdownify | remove: "&lt;p&gt;" | remove: "&lt;/p&gt;" %}</span></p>
+<p class="p1"><span class="s1">{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% assign title = post.title %}</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;div class="{{ include.type | default: "list" }}__item"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork"&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% if include.type == "grid" and teaser %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;div class="archive__item-teaser"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;img src=</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{% if teaser contains "://" %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"{{ teaser }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"{{ teaser | prepend: "/images/" | prepend: base_path }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>alt=""&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;h2 class="archive__item-title" itemprop="headline"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{% if post.link %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;a href="{{ post.link }}"&gt;{{ title }}&lt;/a&gt; &lt;a href="{{ base_path }}{{ post.url }}" rel="permalink"&gt;&lt;i class="fa fa-link" aria-hidden="true" title="permalink"&gt;&lt;/i&gt;&lt;span class="sr-only"&gt;Permalink&lt;/span&gt;&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;a href="{{ base_path }}{{ post.url }}" rel="permalink"&gt;{{ title }}&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/h2&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% if post.read_time %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p class="page__meta"&gt;&lt;i class="fa fa-clock" aria-hidden="true"&gt;&lt;/i&gt; {% include read-time.html %}&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% if post.collection == 'teaching' %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p&gt; {{ post.type }}, &lt;i&gt;{{ post.venue }}&lt;/i&gt;, {{ post.date | default: "1900-01-01" | date: "%Y" }} &lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% elsif post.collection == 'publications' %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p&gt;Published in &lt;i&gt;{{ post.venue }}&lt;/i&gt;, {{ post.date | default: "1900-01-01" | date: "%Y" }} &lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% elsif post.date %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p class="page__date"&gt;&lt;strong&gt;&lt;i class="fa fa-fw fa-calendar" aria-hidden="true"&gt;&lt;/i&gt; {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}&lt;/strong&gt; &lt;time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}"&gt;{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}&lt;/time&gt;&lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% if post.excerpt and site.read_more != 'enabled' %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p class="archive__item-excerpt" itemprop="description"&gt;{{ post.excerpt | markdownify }}&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% elsif post.excerpt and site.read_more == 'enabled' %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p class="archive__item-excerpt" itemprop="description"&gt;&lt;p&gt;{{ post.excerpt | markdownify | remove: '&lt;p&gt;' | remove: '&lt;/p&gt;' }}&lt;strong&gt;&lt;a href="{{ base_path }}{{ post.url }}" rel="permalink"&gt; Read more&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p&gt;Recommended citation: {{ post.citation }}&lt;br /&gt;&lt;a href="{{ post.paperurl }}"&gt;Download Paper&lt;/a&gt; | &lt;a href="{{ post.slidesurl }}"&gt;Download Slides&lt;/a&gt; | &lt;a href="{{ post.bibtexurl }}"&gt;Download Bibtex&lt;/a&gt;&lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% elsif post.citation and post.paperurl and post.slidesurl %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p&gt;Recommended citation: {{ post.citation }}&lt;br /&gt;&lt;a href="{{ post.paperurl }}"&gt;Download Paper&lt;/a&gt; | &lt;a href="{{ post.slidesurl }}"&gt;Download Slides&lt;/a&gt;&lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% elsif post.citation and post.paperurl and post.bibtexurl %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p&gt;Recommended citation: {{ post.citation }}&lt;br /&gt;&lt;a href="{{ post.paperurl }}"&gt;Download Paper&lt;/a&gt; | &lt;a href="{{ post.bibtexurl }}"&gt;Download Bibtex&lt;/a&gt;&lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% elsif post.citation and post.paperurl %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p&gt;Recommended citation: {{ post.citation }}&lt;br /&gt;&lt;a href="{{ post.paperurl }}"&gt;Download Paper&lt;/a&gt;&lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% elsif post.citation and post.slidesurl and post.bibtexurl %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p&gt;Recommended citation: {{ post.citation }}&lt;br /&gt;&lt;a href="{{ post.slidesurl }}"&gt;Download Slides&lt;/a&gt; | &lt;a href="{{ post.bibtexurl}}"&gt;Download Bibtex&lt;/a&gt;&lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% elsif post.citation and post.slidesurl %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p&gt;Recommended citation: {{ post.citation }}&lt;br /&gt;&lt;a href="{{ post.slidesurl }}"&gt;Download Slides&lt;/a&gt;&lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% elsif post.citation and post.bibtexurl %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p&gt;Recommended citation: {{ post.citation }}&lt;br /&gt;&lt;a href="{{ post.bibtexurl }}"&gt;Download Bibtex&lt;/a&gt;&lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% elsif post.citation %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p&gt;Recommended citation: {{ post.citation }}&lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% elsif post.paperurl and post.bibtexurl %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p&gt;&lt;a href="{{ post.paperurl }}"&gt;Download Paper&lt;/a&gt; | &lt;a href="{{ post.bibtexurl }}"&gt;Download Bibtex&lt;/a&gt;&lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% elsif post.paperurl %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p&gt;&lt;a href="{{ post.paperurl }}"&gt;Download Paper&lt;/a&gt;&lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% elsif post.slidesurl and post.bibtexurl %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p&gt;&lt;a href="{{ post.slidesurl }}"&gt;Download Slides&lt;/a&gt; | &lt;a href="{{ post.bibtexurl }}"&gt;Download Bibtex&lt;/a&gt;&lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% elsif post.slidesurl %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p&gt;&lt;a href="{{ post.slidesurl }}"&gt;Download Slides&lt;/a&gt;&lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% elsif post.bibtexurl %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;p&gt;&lt;a href="{{ post.bibtexurl }}"&gt;Download Bibtex&lt;/a&gt;&lt;/p&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/article&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;/div&gt;</span></p>
+</body>
+</html>
