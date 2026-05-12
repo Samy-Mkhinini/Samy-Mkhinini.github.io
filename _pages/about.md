@@ -22,7 +22,7 @@ Quelques ressources utiles pour découvrir les (magnifiques) maths sur lesquelle
 ======
 
 - Extrait de mon mémoire de M2 : [Dualité de Poitou-Tate](/files/Extrait memoire M2, Mkhinini.pdf)
-- [Kolyvagin's work on modular elliptic curves, B.H. Gross](/files/Kolyvagin's work on modular elliptic curves, Gross.pdf)
+- Mon article préféré ^^ :[Kolyvagin's work on modular elliptic curves, B.H. Gross](/files/Kolyvagin's work on modular elliptic curves, Gross.pdf)
 - [Iwasawa theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
 - [Iwasawa theory for elliptic curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
 - [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
