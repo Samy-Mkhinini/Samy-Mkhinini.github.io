@@ -11,14 +11,20 @@ redirect_from:
 ======
 Bonjour ! Je m'appelle Samy Mkhinini. Je suis un étudiant en mathématiques fondamentales ayant comme centre d'intérêt la théorie algébrique des nombres. Passionné par l'arithmétique, je m'intéresse notamment à l'arithmétique des courbes elliptiques, à la théorie d'Iwasawa, aux systèmes d'Euler, aux fonctions L p-adiques, à la théorie de la déformation des représentations galoisiennes, à la théorie de Hodge p-adique et au programme de Langlands.
 
-Mémoire de Master 2 (encadré par [Denis Benois](<https://www.math.u-bordeaux.fr/~dbenoua/>))
+Stage de recherche de Master 2, janvier 2025 - juin 2025 (encadré par [Denis Benois](<https://www.math.u-bordeaux.fr/~dbenoua/>))
 ======
 
 
 
-Quelques ressources utiles pour découvrir la théorie d'Iwasawa
+Quelques ressources utiles pour découvrir les thèmes étudiés durant mon stage de M2
 ======
 
 - [Iwasawa theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
 - [Iwasawa theory for elliptic curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
+- 
+- 
+- 
+- 
+- 
+- 
 
