@@ -19,4 +19,6 @@ Mémoire de Master 2 (encadré par [Denis Benois](<https://www.math.u-bordeaux.f
 Quelques ressources utiles pour découvrir la théorie d'Iwasawa
 ======
 
+- [Iwasawa theory - Past and Present, Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
+- [Iwasawa theory for elliptic curves, Greenberg(/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
 
