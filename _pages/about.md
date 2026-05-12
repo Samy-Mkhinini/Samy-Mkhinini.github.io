@@ -18,7 +18,7 @@ Stage de recherche de M2 (encadré par [Denis Benois](<https://www.math.u-bordea
 - Thèmes abordés : théorie d'Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), systèmes d'Euler, points de Heegner, travaux de Kolyvagin sur les courbes elliptiques modulaires et dualité de Poitou-Tate.
 
 
-Quelques ressources utiles pour découvrir les thèmes abordés durant mon stage de M2
+Quelques ressources utiles pour découvrir les (magnifiques) maths sur lesquelles je travaille
 ======
 
 - Extrait de mon mémoire de M2 : [Dualité de Poitou-Tate](/files/Extrait memoire M2, Mkhinini.pdf)
