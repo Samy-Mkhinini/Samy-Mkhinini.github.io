@@ -23,7 +23,7 @@ Quelques ressources utiles pour découvrir les (magnifiques) maths sur lesquelle
 
 - Extrait de mon mémoire de M2 : [Dualité de Poitou-Tate](/files/Extrait memoire M2, Mkhinini.pdf)
 - Mon article préféré ^^ : [Kolyvagin's work on modular elliptic curves, B.H. Gross](/files/Kolyvagin's work on modular elliptic curves, Gross.pdf)
-- Pour lire les premiersres de ce qui deviendra les "déformations" : [A modular construction of unramified p-extensions of Q(μ_p), K. A. Ribet](/files/A modular construction of unramified p-extensions of Q(μ_p), Ribet.pdf)
+- Pour lire les premières briques de ce qui deviendra les "déformations" : [A modular construction of unramified p-extensions of Q(μ_p), K. A. Ribet](/files/A modular construction of unramified p-extensions of Q(μ_p), Ribet.pdf)
 - Construction des fonctions L p-adiques : [On p-adic analogues of the conjectures of Birch and Swinnerton-Dyer, B. Mazur](/files/On p-adic analogues of the conjectures of Birch and Swinnerton-Dyer, Mazur.pdf)
 - [Iwasawa theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
 - [Iwasawa theory for elliptic curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
