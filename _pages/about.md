@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Bonjour ! Je m'appelle Samy Mkhinini. Je suis étudiant en mathématiques fondamentales ayant comme centre d'intérêt la théorie algébrique des nombres. Passionné par l'arithmétique, je m'intéresse notamment à l'arithmétique des courbes elliptiques, à la théorie d'Iwasawa, aux systèmes d'Euler, aux fonctions L p-adiques, à la théorie de la déformation des représentations galoisiennes et à la théorie de Hodge p-adique.
+بسم الله والحمد لله، والصلاة والسلام على رسول الله، وعلى آله وصحبه ومن والاه.
+======
+Bonjour ! Je m'appelle Samy Mkhinini. Je suis un étudiant en mathématiques fondamentales ayant comme centre d'intérêt la théorie algébrique des nombres. Passionné par l'arithmétique, je m'intéresse notamment à l'arithmétique des courbes elliptiques, à la théorie d'Iwasawa, aux systèmes d'Euler, aux fonctions L p-adiques, à la théorie de la déformation des représentations galoisiennes, à la théorie de Hodge p-adique et au programme de Langlands.
 
 A data-driven personal website
 ======
