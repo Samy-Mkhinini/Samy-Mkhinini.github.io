@@ -14,6 +14,8 @@ Bonjour ! Je m'appelle Samy Mkhinini. Je suis un étudiant en mathématiques fon
 Stage de recherche de Master 2, janvier 2025 - juin 2025 (encadré par [Denis Benois](<https://www.math.u-bordeaux.fr/~dbenoua/>))
 ======
 
+- Titre du mémoire : Théorie d'Iwasawa des courbes elliptiques et travaux de Kolyvagin sur les courbes elliptiques modulaires.
+- Thèmes abordés : théorie d'Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), systèmes d'Euler, points de Heegner et dualité de Poitou-Tate.
 
 
 Quelques ressources utiles pour découvrir les thèmes étudiés durant mon stage de M2
