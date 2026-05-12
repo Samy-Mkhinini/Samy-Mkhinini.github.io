@@ -18,7 +18,7 @@ Stage de recherche de M2 (encadré par [Denis Benois](<https://www.math.u-bordea
 - Thèmes abordés : théorie d'Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), systèmes d'Euler, points de Heegner, travaux de Kolyvagin sur les courbes elliptiques modulaires et dualité de Poitou-Tate.
 
 
-Quelques ressources utiles pour découvrir les (magnifiques) maths sur lesquelles je travaille
+Quelques ressources pour découvrir les (magnifiques) maths sur lesquelles je travaille
 ======
 
 - Extrait de mon mémoire de M2 : [Dualité de Poitou-Tate](/files/Extrait memoire M2, Mkhinini.pdf)
@@ -28,7 +28,7 @@ Quelques ressources utiles pour découvrir les (magnifiques) maths sur lesquelle
 - [Iwasawa theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
 - [Iwasawa theory for elliptic curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
 - [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
-- [Machinerie générale des systèmes d'Euler, G. Chenevier](/files/Machinerie générale des systèmes d'Euler - Preuves de Kolyvagin et Rubin, Chenevier.pdf)
+- [Machinerie générale des systèmes d'Euler, G. Chenevier](/files/Machinerie generale des systèmes d'Euler - Preuves de Kolyvagin et Rubin, Chenevier.pdf)
 - [Heegner points on X0(N), B. H. Gross](/files/Heegner points on X_0(N), Gross.pdf)
 - [Heegner points and derivatives of L-series, B. H. Gross & D. B. Zagier](/files/Heegner points and derivatives of L-series, Gross.pdf)
 - [The work of Gross and Zagier on Heegner points and the derivatives of L-series, J. Coates](/files/The work of Gross and Zagier on Heegner points and the derivatives of L-series, Coates.pdf)
