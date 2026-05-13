@@ -35,9 +35,9 @@ Séminaires, masterclasses et conférences
 * Immersion d'une semaine au CIRM (Marseille, février 2023)
   
   
-Enseignement (2025-2026)
+Enseignement
 ======
-* Khôlleur de mathématiques en CPGE, Lycée Montaigne (Bordeaux)
+* Khôlleur de mathématiques en CPGE, Lycée Montaigne (Bordeaux, 2025-2026)
 
   
 Compétences informatiques
