@@ -33,14 +33,14 @@ Formation détaillée
   * Supervisor: Professor Git
 
 
-Séminaires, conférences et masterclasses
+Séminaires, masterclasses et conférences
 ===
 * Séminaire de théorie des nombres de Bordeaux, Institut de Mathématiques de Bordeaux
   * Séminaire hebdomadaire, 2024–2026.
-* Masterclass Sophie Kowalevski, Centre Henri Lebesgue 
-  * Angers — juin 2024.
-* Conférences crypto, CIRM
-  * Marseille — février 2023.
+* Masterclass Sophie Kowalevski, Centre Henri Lebesgue (Angers, juin 2024)
+  * Thème : Groupe modulaire.
+* Immersion d'une semaine au CIRM (Marseille, février 2023)
+  * Dans le cadre de mon stage de recherche de L3.
   
   
 Enseignement (2025-2026)
