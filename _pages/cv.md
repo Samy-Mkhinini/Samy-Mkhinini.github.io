@@ -35,20 +35,23 @@ Formation détaillée
 
 Séminaires, conférences et masterclasses
 ===
-* Séminaire de théorie des nombres de Bordeaux, Institut de Mathématiques de Bordeaux — séminaire hebdomadaire, 2024–2026.
-* Masterclass Sophie Kowalevski, Angers — juin 2024.
-* Immersion de recherche au CIRM, Marseille — février 2023.
+* Séminaire de théorie des nombres de Bordeaux, Institut de Mathématiques de Bordeaux
+** Séminaire hebdomadaire, 2024–2026.
+* Masterclass Sophie Kowalevski, Centre Henri Lebesgue 
+** Angers — juin 2024.
+* Conférences crypto, CIRM
+** Marseille — février 2023.
   
   
-Enseignement
+Enseignement (2025-2026)
 ======
-* Khôlleur de mathématiques, CPGE - Lycée Montaigne
-Bordeaux, France — 2025–2026
+* Khôlleur de mathématiques en CPGE, Lycée Montaigne
+** Bordeaux, France
 
   
 Compétences informatiques
 ======
-* Calcul mathématique et programmation** : SageMath, Python.
+* Calcul mathématique et programmation : SageMath, Python.
 * LaTeX, Git/GitHub.
 
 
