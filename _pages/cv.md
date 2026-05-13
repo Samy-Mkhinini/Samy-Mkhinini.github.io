@@ -36,16 +36,15 @@ Formation
     * Groupe de lecture : théorie de Morse
       * Référence : Morse Theory, J. Milnor.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* L3 Mathématiques générales/fondamentales (2022-2023)
+  * Université Claude Bernard Lyon 1
+  * Mémoire d'initiation à la recherche 
+    * Sujet : Lien entre les revêtements ramifiés de surfaces de Riemann et la théorie de Galois.
+  * Cours suivis : algèbre linéaire et bilinéaire ; théorie de la mesure ; théorie des groupes ; topologie des espaces métriques ; équations différentielles ; analyse complexe ;  analyse fonctionnelle ; anneaux et corps ; géométrie ; calcul différentiel, courbes et surfaces ; probabilités.
+  * Immersion au CIRM (Marseille, février 2023)
+    * Programme d’une semaine dans le cadre de mon initiation à la recherche.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
+* CPGE MPSI/MP (2020–2022)
 
 Séminaires, masterclasses et conférences
 ===
@@ -72,21 +71,3 @@ Langues
 * Anglais : B2-C1.
 * Espagnol : B1.
 * Arabe littéraire : A1.
-
-
-### Université Claude Bernard Lyon 1  
-**L3 Mathématiques**  
-Lyon, France — 2022–2023
-
-- **Projet et rapport de recherche**  
-  Lien entre les revêtements ramifiés, les surfaces de Riemann et la théorie de Galois.
-
-- **Cours suivis** : théorie des groupes, analyse complexe, théorie de la mesure, analyse fonctionnelle, topologie, équations différentielles, anneaux et corps, géométrie, calcul différentiel, courbes et surfaces, probabilités.
-
-- **Immersion de recherche au CIRM**, Marseille — février 2023  
-  Programme d’une semaine dans le cadre de mon projet de recherche de L3.
-
----
-
-### CPGE MPSI/MP — 2020–2022
-
