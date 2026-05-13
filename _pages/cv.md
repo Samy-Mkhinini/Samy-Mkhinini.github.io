@@ -30,7 +30,7 @@ Formation
     * Durée du stage : 6 mois
     * Encadrant : Amaury Thuillier  
     * Thèmes : arithmétique des courbes elliptiques, théorie de Galois et théorie du corps de classes.
-    * Mémoire d'Histoire des mathématiques
+    * Mémoire d'histoire des mathématiques
       * Sujet : Le dernier théorème de Fermat, de Dirichlet à Wiles, et démonstration de Dirichlet du cas n = 5.
     * Cours suivis : probabilités et statistiques ; analyse fonctionnelle I et II ; anneaux, corps et théorie des représentations ; algèbre linéaire avancée ; géométrie différentielle ; géométrie différentielle avancée ; topologie algébrique ; combinatoire algébrique ; géométrie algébrique ; théorie analytique des nombres ; théorie algébrique des nombres ; théorie de Galois ; surfaces de Riemann ; histoire des mathématiques.
     * Groupe de lecture : théorie de Morse
