@@ -11,7 +11,7 @@ redirect_from:
 
 Formation
 ======
-* M2 AGTN — Algèbre, Géométrie, Théorie des nombres
+* M2 AGTN — Algèbre, Géométrie, Théorie des Nombres
   * Université de Bordeaux — Institut de Mathématiques de Bordeaux (IMB)
   * Programme entièrement dispensé en anglais, en partenariat avec le programme international ALGANT.
   * Mémoire de master 2 (2nd semestre)
