@@ -21,7 +21,7 @@ Formation
   * Mémoire d'initiation à la recherche (1er semestre)
     * Encadrant : Aurel Page.
     * Thème : Module de Tate l-adique et représentations galoisiennes.
-  * Cours suivis : théorie algébrique des nombres, géométrie algébrique, théorie algorithmique des nombres, algèbre homologique (théorie des catégorie & cohomologie des faisceaux) et théorie de Hodge p-adique.
+  * Cours suivis : théorie algébrique des nombres, géométrie algébrique, théorie algorithmique des nombres, algèbre homologique (théorie des catégories & cohomologie des faisceaux) et théorie de Hodge p-adique.
 
 * M1 Mathématiques générales/fondamentales
   * Université Claude Bernard Lyon 1 & ENS de Lyon
@@ -32,8 +32,9 @@ Formation
     * Thèmes : Arithmétique des courbes elliptiques, théorie de Galois et théorie du corps de classes.
     * Mémoire d'Histoire des mathématiques
       * Sujet : Le dernier théorème de Fermat, de Dirichlet à Wiles, et démonstration de Dirichlet du cas \(n = 5\).
-    * Cours suivis : anneaux, corps et théorie des représentations ; algèbre linéaire avancée ; géométrie différentielle avancée ; théorie analytique des nombres ; théorie algébrique des nombres ; théorie de Galois ; surfaces de Riemann ; histoire des mathématiques.
-    * Groupe de lecture : théorie de Morse, d’après *Morse Theory* de J. Milnor.
+    * Cours suivis : analyse fonctionnelle ; analyse fonctionnelle avancée ; anneaux, corps et théorie des représentations ; algèbre linéaire avancée ; géométrie différentielle, géométrie/topologie différentielle avancée ; topologie algébrique ; combinatoire algébrique ; théorie analytique des nombres ; géométrie algébrique ; théorie algébrique des nombres ; théorie de Galois ; surfaces de Riemann ; histoire des mathématiques.
+    * Groupe de lecture : théorie de Morse
+      * Référence : Morse Theory, J. Milnor.
 
 * Fall 2015: Research Assistant
   * GitHub University
