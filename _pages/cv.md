@@ -35,18 +35,15 @@ Formation détaillée
 
 Séminaires, masterclasses et conférences
 ===
-* Séminaire de théorie des nombres de Bordeaux, Institut de Mathématiques de Bordeaux
-  * Séminaire hebdomadaire, 2024–2026.
-* Masterclass Sophie Kowalevski, Centre Henri Lebesgue (Angers, juin 2024)
-  * Thème : Groupe modulaire.
+* Séminaire de théorie des nombres de Bordeaux, Institut de Mathématiques de Bordeaux (2024–2026).
+* Masterclass Sophie Kowalevski (Angers, juin 2024)
+  * Thème : groupe modulaire.
 * Immersion d'une semaine au CIRM (Marseille, février 2023)
-  * Dans le cadre de mon stage de recherche de L3.
   
   
 Enseignement (2025-2026)
 ======
-* Khôlleur de mathématiques en CPGE, Lycée Montaigne
-  * Bordeaux, France
+* Khôlleur de mathématiques en CPGE, Lycée Montaigne (Bordeaux, France)
 
   
 Compétences informatiques
