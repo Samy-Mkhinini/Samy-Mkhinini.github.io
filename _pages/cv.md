@@ -15,6 +15,7 @@ Formation
   * Université de Bordeaux — Institut de Mathématiques de Bordeaux (IMB)
   * Programme entièrement dispensé en anglais, en partenariat avec le programme international ALGANT.
   * Mémoire de master 2 (2nd semestre)
+    * Durée du stage : 5 mois
     * Encadrant : Denis Benois.
     * Thèmes : théorie d’Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), systèmes d’Euler, points de Heegner, travaux de Kolyvagin sur les courbes elliptiques modulaires et dualité de Poitou-Tate.
   * Mémoire d'initiation à la recherche (1er semestre)
@@ -22,6 +23,17 @@ Formation
     * Thème : Module de Tate l-adique et représentations galoisiennes.
   * Cours suivis : théorie algébrique des nombres, géométrie algébrique, théorie algorithmique des nombres, algèbre homologique (théorie des catégorie & cohomologie des faisceaux) et théorie de Hodge p-adique.
 
+* M1 Mathématiques générales/fondamentales
+  * Université Claude Bernard Lyon 1 & ENS de Lyon
+  * Admissions obtenues en Master 2 : M2 AGTN (Université de Bordeaux) ; M2 Théorie des nombres (ENS de Lyon) ; M2 Mathématiques fondamentales (Sorbonne Université).
+  * Mémoire de Master 1 (2nd semestre)
+    * Durée du stage : 6 mois
+    * Encadrant : Amaury Thuillier  
+    * Thèmes : Arithmétique des courbes elliptiques, théorie de Galois et théorie du corps de classes.
+    * Mémoire d'Histoire des mathématiques
+      * Sujet : Le dernier théorème de Fermat, de Dirichlet à Wiles, et démonstration de Dirichlet du cas \(n = 5\).
+    * Cours suivis : anneaux, corps et théorie des représentations ; algèbre linéaire avancée ; géométrie différentielle avancée ; théorie analytique des nombres ; théorie algébrique des nombres ; théorie de Galois ; surfaces de Riemann ; histoire des mathématiques.
+    * Groupe de lecture : théorie de Morse, d’après *Morse Theory* de J. Milnor.
 
 * Fall 2015: Research Assistant
   * GitHub University
@@ -70,21 +82,7 @@ Bordeaux, France — 2024–2025
 
 ---
 
-### Université Claude Bernard Lyon 1 & ENS de Lyon  
-**M1 Mathématiques fondamentales**  
-Lyon, France — 2023–2024
-
-- Admissions obtenues en Master 2 : M2 AGTN, Université de Bordeaux ; M2 Théorie des nombres, ENS de Lyon ; M2 Mathématiques fondamentales, Sorbonne Université.
-
-- **Mémoire de Master 1** — encadrant : Amaury Thuillier  
-  Arithmétique des courbes elliptiques, théorie de Galois et théorie du corps de classes.
-
-- **Histoire des mathématiques** — petit mémoire/rapport  
-  Le dernier théorème de Fermat, de Dirichlet à Wiles, et démonstration de Dirichlet du cas \(n = 5\).
-
-- **Cours suivis** : anneaux, corps et théorie des représentations ; algèbre linéaire avancée ; géométrie différentielle avancée ; théorie analytique des nombres ; théorie algébrique des nombres ; théorie de Galois ; surfaces de Riemann ; histoire des mathématiques.
-
-- **Groupe de lecture** : théorie de Morse, d’après *Morse Theory* de J. Milnor.
+### 
 
 ---
 
