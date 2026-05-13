@@ -21,7 +21,7 @@ Formation
   * Mémoire d'initiation à la recherche (1er semestre)
     * Encadrant : Aurel Page.
     * Thème : Module de Tate l-adique et représentations galoisiennes.
-  * Cours suivis : théorie algébrique des nombres, géométrie algébrique, théorie algorithmique des nombres, algèbre homologique (théorie des catégories & cohomologie des faisceaux) et théorie de Hodge p-adique.
+  * Cours suivis : théorie algébrique des nombres ; géométrie algébrique ; théorie algorithmique des nombres ; algèbre homologique (théorie des catégories & cohomologie des faisceaux) et théorie de Hodge p-adique.
 
 * M1 Mathématiques générales/fondamentales
   * Université Claude Bernard Lyon 1 & ENS de Lyon
