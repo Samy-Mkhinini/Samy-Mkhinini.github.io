@@ -11,10 +11,17 @@ redirect_from:
 
 Formation
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* M2 AGTN — Algèbre, Géométrie, Théorie des nombres
+  * Université de Bordeaux — Institut de Mathématiques de Bordeaux (IMB)
+  * Programme entièrement dispensé en anglais, en partenariat avec le programme international ALGANT.
+  * Mémoire de master 2 (2nd semestre)
+    * Encadrant : Denis Benois.
+    * Thèmes : Théorie d’Iwasawa, travaux de Kolyvagin sur les courbes elliptiques modulaires, systèmes d’Euler, points de Heegner et dualité de Poitou-Tate.
+  * Mémoire d'initiation à la recherche (1er semestre)
+    * Encadrant : Aurel Page.
+    * Thème : Module de Tate l-adique et représentations galoisiennes.
+  * Cours suivis : théorie algébrique des nombres, géométrie algébrique, théorie algorithmique des nombres, algèbre homologique (théorie des catégorie & cohomologie des faisceaux) et théorie de Hodge p-adique.
+
 
 * Fall 2015: Research Assistant
   * GitHub University
@@ -56,19 +63,10 @@ Langues
 
 ## Formation
 
-### Université de Bordeaux — Institut de Mathématiques de Bordeaux (IMB)  
-**M2 AGTN — Algèbre, Géométrie, Théorie des nombres**  
+###   
+**
 Bordeaux, France — 2024–2025
 
-Programme entièrement dispensé en anglais, en partenariat avec le programme international ALGANT.
-
-- **Mémoire de master** — encadrant : Denis Benois  
-  Théorie d’Iwasawa des courbes elliptiques, travaux de Kolyvagin sur les courbes elliptiques modulaires, systèmes d’Euler, points de Heegner et dualité de Poitou-Tate.
-
-- **Initiation à la recherche** — encadrant : Aurel Page  
-  Module de Tate l-adique et représentations galoisiennes.
-
-- **Cours suivis** : théorie algébrique des nombres, géométrie algébrique, théorie algorithmique des nombres, algèbre homologique — cohomologie des faisceaux — et théorie de Hodge p-adique.
 
 ---
 
