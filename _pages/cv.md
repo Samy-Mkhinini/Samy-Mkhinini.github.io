@@ -17,7 +17,7 @@ Formation
   * Mémoire de master 2 (2nd semestre)
     * Durée du stage : 5 mois
     * Encadrant : Denis Benois.
-    * Thèmes : théorie d’Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), systèmes d’Euler, points de Heegner, travaux de Kolyvagin sur les courbes elliptiques modulaires et dualité de Poitou-Tate.
+    * Thèmes : théorie d’Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), travaux de Kolyvagin sur les courbes elliptiques modulaires, systèmes d’Euler, points de Heegner et dualité de Poitou-Tate.
   * Mémoire d'initiation à la recherche (1er semestre)
     * Encadrant : Aurel Page.
     * Thème : Module de Tate l-adique et représentations galoisiennes.
@@ -29,10 +29,10 @@ Formation
   * Mémoire de Master 1 (2nd semestre)
     * Durée du stage : 6 mois
     * Encadrant : Amaury Thuillier  
-    * Thèmes : Arithmétique des courbes elliptiques, théorie de Galois et théorie du corps de classes.
+    * Thèmes : arithmétique des courbes elliptiques, théorie de Galois et théorie du corps de classes.
     * Mémoire d'Histoire des mathématiques
       * Sujet : Le dernier théorème de Fermat, de Dirichlet à Wiles, et démonstration de Dirichlet du cas \(n = 5\).
-    * Cours suivis : analyse fonctionnelle ; analyse fonctionnelle avancée ; anneaux, corps et théorie des représentations ; algèbre linéaire avancée ; géométrie différentielle, géométrie/topologie différentielle avancée ; topologie algébrique ; combinatoire algébrique ; théorie analytique des nombres ; géométrie algébrique ; théorie algébrique des nombres ; théorie de Galois ; surfaces de Riemann ; histoire des mathématiques.
+    * Cours suivis : analyse fonctionnelle I et II ; anneaux, corps et théorie des représentations ; algèbre linéaire avancée ; géométrie différentielle, géométrie différentielle avancée ; topologie algébrique ; combinatoire algébrique ; géométrie algébrique ; théorie analytique des nombres ; théorie algébrique des nombres ; théorie de Galois ; surfaces de Riemann ; histoire des mathématiques.
     * Groupe de lecture : théorie de Morse
       * Référence : Morse Theory, J. Milnor.
 
