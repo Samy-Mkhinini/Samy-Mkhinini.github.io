@@ -44,7 +44,7 @@ Formation
   * Immersion au CIRM (Marseille, février 2023)
     * Programme d’une semaine dans le cadre de mon initiation à la recherche.
 
-* CPGE MPSI/MP (2020–2022)
+* CPGE MPSI/MP (2020-2022)
 
 Séminaires, masterclasses et conférences
 ===
