@@ -49,9 +49,9 @@ Compétences informatiques
 Langues
 ======
 * Français : langue maternelle.
-* Anglais : B2–C1.
+* Anglais : B2-C1.
 * Espagnol : B1.
-* Arabe : A1.
+* Arabe littéraire : A1.
 
 
 ## Formation
