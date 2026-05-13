@@ -11,7 +11,7 @@ redirect_from:
 
 Formation
 ======
-* M2 AGTN — Algèbre, Géométrie, Théorie des Nombres
+* M2 AGTN — Algèbre, Géométrie, Théorie des Nombres (2024-2025)
   * Université de Bordeaux — Institut de Mathématiques de Bordeaux (IMB)
   * Programme entièrement dispensé en anglais, en partenariat avec le programme international ALGANT.
   * Mémoire de master 2 (2nd semestre)
@@ -23,7 +23,7 @@ Formation
     * Thème : Module de Tate l-adique et représentations galoisiennes.
   * Cours suivis : théorie algébrique des nombres ; géométrie algébrique ; théorie algorithmique des nombres ; algèbre homologique (théorie des catégories & cohomologie des faisceaux) et théorie de Hodge p-adique.
 
-* M1 Mathématiques générales/fondamentales
+* M1 Mathématiques générales/fondamentales (2023-2024)
   * Université Claude Bernard Lyon 1 & ENS de Lyon
   * Admissions obtenues en Master 2 : M2 AGTN (Université de Bordeaux) ; M2 Théorie des nombres (ENS de Lyon) ; M2 Mathématiques fondamentales (Sorbonne Université).
   * Mémoire de Master 1 (2nd semestre)
@@ -73,19 +73,6 @@ Langues
 * Espagnol : B1.
 * Arabe littéraire : A1.
 
-
-## Formation
-
-###   
-**
-Bordeaux, France — 2024–2025
-
-
----
-
-### 
-
----
 
 ### Université Claude Bernard Lyon 1  
 **L3 Mathématiques**  
