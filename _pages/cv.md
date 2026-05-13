@@ -16,7 +16,7 @@ Formation
   * Programme entièrement dispensé en anglais, en partenariat avec le programme international ALGANT.
   * Mémoire de master 2 (2nd semestre)
     * Encadrant : Denis Benois.
-    * Thèmes : Théorie d’Iwasawa, travaux de Kolyvagin sur les courbes elliptiques modulaires, systèmes d’Euler, points de Heegner et dualité de Poitou-Tate.
+    * Thèmes : théorie d’Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), systèmes d’Euler, points de Heegner, travaux de Kolyvagin sur les courbes elliptiques modulaires et dualité de Poitou-Tate.
   * Mémoire d'initiation à la recherche (1er semestre)
     * Encadrant : Aurel Page.
     * Thème : Module de Tate l-adique et représentations galoisiennes.
