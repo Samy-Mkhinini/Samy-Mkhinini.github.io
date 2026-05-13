@@ -11,12 +11,6 @@ redirect_from:
 
 Formation
 ======
-* Doctorat en mathématiques fondamentales, 2031
-* Master en mathématiques fondamentales, 2025
-* Licence mathématiques fondamentales, 2023
-
-Formation détaillée
-======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
@@ -43,7 +37,7 @@ Séminaires, masterclasses et conférences
   
 Enseignement (2025-2026)
 ======
-* Khôlleur de mathématiques en CPGE, Lycée Montaigne (Bordeaux, France)
+* Khôlleur de mathématiques en CPGE, Lycée Montaigne (Bordeaux)
 
   
 Compétences informatiques
