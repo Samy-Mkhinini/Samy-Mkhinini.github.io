@@ -51,7 +51,7 @@ Séminaires, masterclasses et conférences
 * Séminaire de théorie des nombres de Bordeaux, Institut de Mathématiques de Bordeaux (2024–2026).
 * Masterclass Sophie Kowalevski (Angers, juin 2024)
   * Thème : groupe modulaire.
-* Immersion d'une semaine au CIRM (Marseille, février 2023)
+* Semaine de conférences au CIRM (Marseille, février 2023)
   
   
 Enseignement
