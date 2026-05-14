@@ -16,10 +16,10 @@ Formation
   * Programme entièrement dispensé en anglais, en partenariat avec le programme international ALGANT.
   * Mémoire de master 2 (2nd semestre)
     * Durée du stage : 5 mois
-    * Encadrant : Denis Benois.
+    * Encadrant : [Denis Benois](<https://www.math.u-bordeaux.fr/~dbenoua/>)
     * Thèmes : théorie d’Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), travaux de Kolyvagin sur les courbes elliptiques modulaires, systèmes d’Euler, points de Heegner et dualité de Poitou-Tate.
   * Mémoire d'initiation à la recherche (1er semestre)
-    * Encadrant : Aurel Page.
+    * Encadrant : [Aurel Page](<https://www.normalesup.org/~page/>)
     * Thème : Module de Tate l-adique et représentations galoisiennes.
   * Cours suivis : théorie algébrique des nombres ; géométrie algébrique ; théorie algorithmique des nombres ; algèbre homologique (théorie des catégories & cohomologie des faisceaux) ; théorie de Hodge p-adique.
 
@@ -28,7 +28,7 @@ Formation
   * Admissions obtenues en Master 2 : M2 AGTN (Université de Bordeaux) ; M2 Théorie des nombres (ENS de Lyon) ; M2 Mathématiques fondamentales (Sorbonne Université).
   * Mémoire de Master 1 (2nd semestre)
     * Durée du stage : 6 mois
-    * Encadrant : Amaury Thuillier  
+    * Encadrant : [Amaury Thuillier](<https://math.univ-lyon1.fr/homes-www/thuillier/>) 
     * Thèmes : arithmétique des courbes elliptiques, théorie de Galois et théorie du corps de classes.
     * Mémoire d'histoire des mathématiques
       * Sujet : Le dernier théorème de Fermat, de Dirichlet à Wiles, et démonstration de Dirichlet du cas n = 5.
