@@ -19,7 +19,7 @@ Par exemple, un problème auquel je m'intéresse est le suivant : étant donnée
 </p>
 
 <p>
-En théorie d'Iwasawa des courbes elliptiques, on s'intéresse non pas à la croissance des groupes de classes dans des tours d'extensions mais à celle des groupes de Selmer. En effet, dans le monde des courbes elliptiques, le groupe de Selmer joue un rôle analogue au groupe de classes : il est l’objet arithmétique fondamental dont on étudie la croissance dans une tour d'extensions. Par exemple, on s'intéresse au groupe de Selmer d'une courbe elliptique définie sur une \(\mathbb{Z}_p\)-extension. L'un des puissants outils utilisés est la théorie de Hodge \(p\)-adique. La pionnière de ce champ d'étude est Bernadette Perrin-Riou, dont les travaux m'ont beaucoup inspiré durant mon stage de M2.
+En théorie d'Iwasawa des courbes elliptiques, on s'intéresse non pas à la croissance des groupes de classes dans des tours d'extensions mais plutôt à celle des groupes de Selmer. En effet, dans le monde des courbes elliptiques, le groupe de Selmer joue un rôle analogue au groupe de classes : il est l’objet arithmétique fondamental dont on étudie la croissance dans une tour d'extensions. Par exemple, on s'intéresse au groupe de Selmer d'une courbe elliptique définie sur une \(\mathbb{Z}_p\)-extension. L'un des puissants outils utilisés est la théorie de Hodge \(p\)-adique. La pionnière de ce champ d'étude est Bernadette Perrin-Riou, dont les travaux m'ont beaucoup inspiré durant mon stage de M2.
 </p>
 
 Stage de recherche de M2 (encadré par [Denis Benois](<https://www.math.u-bordeaux.fr/~dbenoua/>))
