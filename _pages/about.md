@@ -13,10 +13,9 @@ redirect_from:
 Bonjour ! Je m'appelle Samy Mkhinini. Je suis un étudiant en mathématiques fondamentales ayant comme champ de recherche la théorie algébrique des nombres. Passionné par l'arithmétique, je m'intéresse notamment à l'arithmétique des courbes elliptiques, à la théorie d'Iwasawa, aux systèmes d'Euler, aux fonctions L p-adiques, à la théorie des déformations des représentations galoisiennes, à la théorie de Hodge p-adique et au programme de Langlands.
 
 <p>
-La fonction zêta de Riemann est définie, pour \( \mathrm{Re}(s) > 1 \), par :
+La fonction zêta de Riemann est définie, pour \( \mathrm{Re}(s) > 1 \), par : \(\zeta(s) = \sum_{n=1}^{+\infty} \frac{1}{n^s}\).
 </p>
 
-\[\zeta(s) = \sum_{n=1}^{+\infty} \frac{1}{n^s}.\]
 ---
 
 
