@@ -21,7 +21,7 @@ Par exemple, un problème auquel je m'intéresse est le suivant : étant donnée
 Stage de recherche de M2 (encadré par [Denis Benois](<https://www.math.u-bordeaux.fr/~dbenoua/>))
 ---
 
-- Titre du mémoire : Théorie d'Iwasawa des courbes elliptiques et travaux de Kolyvagin sur les courbes elliptiques modulaires.
+- Titre du mémoire : Théorie d'Iwasawa des courbes elliptiques - Travaux de Kolyvagin sur les courbes elliptiques modulaires et conjecture BSD.
 - Thèmes abordés : théorie d'Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), travaux de Kolyvagin sur les courbes elliptiques modulaires, systèmes d'Euler, points de Heegner et dualité de Poitou-Tate.
 
 
