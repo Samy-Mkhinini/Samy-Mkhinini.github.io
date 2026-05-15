@@ -12,21 +12,19 @@ redirect_from:
 
 Bonjour ! Je m'appelle Samy Mkhinini. Je suis un étudiant en mathématiques fondamentales ayant comme champ de recherche la théorie algébrique des nombres. Passionné par l'arithmétique, je m'intéresse notamment à l'arithmétique des courbes elliptiques, à la théorie d'Iwasawa, aux systèmes d'Euler, aux fonctions L p-adiques, à la théorie des déformations des représentations galoisiennes, à la théorie de Hodge p-adique et au programme de Langlands.
 
+<p>
+La fonction zêta de Riemann est définie, pour \( \mathrm{Re}(s) > 1 \), par :
+</p>
+
+\[\zeta(s) = \sum_{n=1}^{+\infty} \frac{1}{n^s}.\]
+---
+
+
 Stage de recherche de M2 (encadré par [Denis Benois](<https://www.math.u-bordeaux.fr/~dbenoua/>))
 ---
 
 - Titre du mémoire : Théorie d'Iwasawa des courbes elliptiques et travaux de Kolyvagin sur les courbes elliptiques modulaires.
 - Thèmes abordés : théorie d'Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), travaux de Kolyvagin sur les courbes elliptiques modulaires, systèmes d'Euler, points de Heegner et dualité de Poitou-Tate.
-
-
-<p>
-La fonction zêta de Riemann est définie, pour \( \mathrm{Re}(s) > 1 \), par :
-</p>
-
-\[
-\zeta(s) = \sum_{n=1}^{+\infty} \frac{1}{n^s}.
-\]
----
 
 
 Quelques ressources pour découvrir les (magnifiques) maths sur lesquelles je travaille
