@@ -13,7 +13,7 @@ redirect_from:
 Bonjour ! Je m'appelle Samy Mkhinini. Je suis un étudiant en mathématiques fondamentales ayant comme champ de recherche la théorie algébrique des nombres. Passionné par l'arithmétique, je m'intéresse notamment à l'arithmétique des courbes elliptiques, à la théorie d'Iwasawa, aux systèmes d'Euler, aux fonctions L p-adiques, à la théorie des déformations des représentations galoisiennes, à la théorie de Hodge p-adique et au programme de Langlands.
 
 <p>
-La fonction zêta de Riemann est définie, pour \( \mathrm{Re}(s) > 1 \), par : \[\zeta(s) = \sum\limits_{n=1}^{+\infty} \frac{1}{n^s}.\]
+Par exemple, soit \(E\) une courbe elliptique définie sur \(\mathbb{Q}\). Nous pouvons nous demander la chose suivante : s'il y a des points "locaux" sur \(E\) dans \(\mathbb{R}\) et dans chaque \(\mathbb{Q}_p\), pour \(p\) premier, existe-t-il nécessairement un point "global" dans \(\mathbb{Q}\) ? On appelle ce principe : le "principe local-global". Dans le cas des formes quadratiques, la réponse est oui, et cela porte le nom de "Théorème de Hasse-Minkowvski". Dans le cas plus sophistiqué des courbes elliptiques, la réponse générale est : pas toujours. Toutefois, il existe un objet qui mesure justement l'obstruction d'une courbe elliptique à vérifier ce principe. Cet objet s'appelle le groupe de Shafarevich-Tate, et est souvent noté \[Ш(E/\mathbb{Q}).\]
 </p>
 
 ---
