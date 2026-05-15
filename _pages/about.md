@@ -19,6 +19,16 @@ Stage de recherche de M2 (encadré par [Denis Benois](<https://www.math.u-bordea
 - Thèmes abordés : théorie d'Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), travaux de Kolyvagin sur les courbes elliptiques modulaires, systèmes d'Euler, points de Heegner et dualité de Poitou-Tate.
 
 
+<p>
+La fonction zêta de Riemann est définie, pour \( \mathrm{Re}(s) > 1 \), par :
+</p>
+
+\[
+\zeta(s) = \sum_{n=1}^{+\infty} \frac{1}{n^s}.
+\]
+---
+
+
 Quelques ressources pour découvrir les (magnifiques) maths sur lesquelles je travaille
 ---
 
