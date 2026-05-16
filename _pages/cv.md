@@ -45,6 +45,10 @@ Formation
     * Programme d’une semaine dans le cadre de mon initiation à la recherche.
 
 * CPGE MPSI/MP (2020-2022)
+  * Abandon du concours X-ENS au 3e jour à cause d'une récidive de problèmes de santé passés.
+
+* Déscolarisé (2019-2020)
+  * Problèmes de santé.
 
 Séminaires, masterclasses et conférences
 ===
