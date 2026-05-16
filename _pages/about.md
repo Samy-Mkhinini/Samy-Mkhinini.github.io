@@ -19,10 +19,9 @@ Par exemple, un problème auquel je m'intéresse est le suivant : étant donnée
 </p>
 
 <p>
-En théorie d'Iwasawa des courbes elliptiques, on s'intéresse non pas à la croissance des groupes de classes dans des tours d'extensions mais plutôt à celle des groupes de Selmer. En effet, dans le monde des courbes elliptiques, le groupe de Selmer joue un rôle analogue au groupe de classes : il est l’objet arithmétique fondamental dont on étudie la croissance au sein d'une tour d'extensions. Par exemple, on peut s'intéresser au groupe de Selmer d'une courbe elliptique définie sur une \(\mathbb{Z}_p\)-extension. L'un des puissants outils utilisés est la théorie de Hodge \(p\)-adique.
-</p> 
-La pionnière de ce champ d'étude est [Bernadette Perrin-Riou](<https://www.imo.universite-paris-saclay.fr/~bernadette.perrin-riou/>), dont les travaux m'ont beaucoup inspiré durant mon stage de M2. Pour en savoir plus au sujet de la théorie d'Iwasawa en général, vous pouvez lire un des articles introductifs de [Ralph Greenberg](<https://sites.math.washington.edu//~greenber/personal.html>).
-
+En théorie d'Iwasawa des courbes elliptiques, on s'intéresse non pas à la croissance des groupes de classes dans des tours d'extensions mais plutôt à celle des groupes de Selmer. En effet, dans le monde des courbes elliptiques, le groupe de Selmer joue un rôle analogue au groupe de classes : il est l’objet arithmétique fondamental dont on étudie la croissance au sein d'une tour d'extensions. Par exemple, on peut s'intéresser au groupe de Selmer d'une courbe elliptique définie sur une \(\mathbb{Z}_p\)-extension. L'un des puissants outils utilisés est la théorie de Hodge \(p\)-adique. 
+La pionnière de ce champ d'étude est [Bernadette Perrin-Riou](<https://www.imo.universite-paris-saclay.fr/~bernadette.perrin-riou/>), dont les travaux m'ont beaucoup inspiré durant mon stage de M2. Pour en savoir plus au sujet de la théorie d'Iwasawa en général, vous pouvez lire un des articles introductifs de [Ralph Greenberg](<https://sites.math.washington.edu//~greenber/personal.html>). Vous pouvez en retrouver deux des plus "importants" un peu plus bas sur cette page.
+</p>
 
 Stage de recherche de M2 (encadré par [Denis Benois](<https://www.math.u-bordeaux.fr/~dbenoua/>))
 ---
@@ -34,12 +33,12 @@ Stage de recherche de M2 (encadré par [Denis Benois](<https://www.math.u-bordea
 Quelques ressources utiles pour découvrir les (magnifiques) maths sur lesquelles je travaille
 ---
 
-- Mon article préféré ^^ : [Kolyvagin's work on modular elliptic curves, B. H. Gross](/files/Kolyvagin's work on modular elliptic curves, Gross.pdf)
+- Mon article préféré ^^ : [Iwasawa theory for elliptic curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
+- Mon 2nd article préféré ^^ : [Kolyvagin's work on modular elliptic curves, B. H. Gross](/files/Kolyvagin's work on modular elliptic curves, Gross.pdf)
 - Pour lire les premières briques de ce qui deviendra les "déformations" : [A modular construction of unramified p-extensions of Q(μp), K. A. Ribet](/files/A modular construction of unramified p-extensions of Q(μ_p), Ribet.pdf)
 - Construction des fonctions L p-adiques : [On p-adic analogues of the conjectures of Birch and Swinnerton-Dyer, B. Mazur, J. Tate & J. Teitelbaum](/files/On p-adic analogues of the conjectures of Birch and Swinnerton-Dyer, Mazur.pdf)
 - Preuve de la formule de Gross-Zagier : [Heegner points and derivatives of L-series, B. H. Gross & D. B. Zagier](/files/Heegner points and derivatives of L-series, Gross.pdf)
 - [Iwasawa theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
-- [Iwasawa theory for elliptic curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
 - [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
 - [Machinerie générale des systèmes d'Euler, G. Chenevier](/files/Machinerie generale des systemes d'Euler, Chenevier.pdf)
 - [Heegner points on X0(N), B. H. Gross](/files/Heegner points on X_0(N), Gross.pdf)
