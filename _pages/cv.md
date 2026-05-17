@@ -74,4 +74,4 @@ Langues
 * Français : langue maternelle.
 * Anglais : B2-C1.
 * Espagnol : B1.
-* Arabe littéraire : A1.
+* Arabe littéraire : A2.
