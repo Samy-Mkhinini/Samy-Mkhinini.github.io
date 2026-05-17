@@ -30,11 +30,11 @@ Formation
     * Durée du stage : 6 mois
     * Encadrant : [Amaury Thuillier](<https://math.univ-lyon1.fr/homes-www/thuillier/>) 
     * Thèmes : arithmétique des courbes elliptiques, théorie de Galois et théorie du corps de classes.
-    * Mémoire d'histoire des mathématiques
-      * Sujet : Le dernier théorème de Fermat, de Dirichlet à Wiles, et démonstration de Dirichlet du cas n = 5.
-    * Cours suivis : probabilités et statistiques ; analyse fonctionnelle I et II ; anneaux, corps et représentations ; algèbre linéaire avancée ; géométrie différentielle ; géométrie différentielle avancée ; topologie algébrique ; combinatoire algébrique ; géométrie algébrique ; théorie analytique des nombres ; théorie algébrique des nombres ; théorie de Galois ; surfaces de Riemann ; histoire des mathématiques.
-    * Groupe de lecture : théorie de Morse
-      * Référence : Morse Theory, J. Milnor.
+  * Mémoire d'histoire des mathématiques
+    * Sujet : Le dernier théorème de Fermat, de Dirichlet à Wiles, et démonstration de Dirichlet du cas n = 5.
+  * Cours suivis : probabilités et statistiques ; analyse fonctionnelle I et II ; anneaux, corps et représentations ; algèbre linéaire avancée ; géométrie différentielle ; géométrie différentielle avancée ; topologie algébrique ; combinatoire algébrique ; géométrie algébrique ; théorie analytique des nombres ; théorie algébrique des nombres ; théorie de Galois ; surfaces de Riemann ; histoire des mathématiques.
+  * Groupe de lecture : théorie de Morse
+    * Référence : Morse Theory, J. Milnor.
 
 * L3 Mathématiques générales/fondamentales (2022-2023)
   * Université Claude Bernard Lyon 1
