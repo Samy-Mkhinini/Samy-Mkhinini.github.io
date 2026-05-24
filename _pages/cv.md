@@ -66,7 +66,7 @@ Enseignement
   
 Compétences informatiques
 ======
-* Calcul mathématique et programmation : SageMath, Python.
+* Calcul formel et programmation : SageMath, Python.
 * LaTeX, Git/GitHub.
 
 
