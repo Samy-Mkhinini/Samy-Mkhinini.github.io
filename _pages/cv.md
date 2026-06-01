@@ -24,8 +24,8 @@ Formation
   * Cours suivis : théorie algébrique des nombres ; géométrie algébrique ; théorie algorithmique des nombres ; algèbre homologique (théorie des catégories & cohomologie des faisceaux) ; théorie de Hodge p-adique.
 
 * M1 Mathématiques générales/fondamentales (2023-2024)
-  * Université Claude Bernard Lyon 1 & ENS de Lyon
-  * Admissions obtenues en Master 2 : M2 AGTN (Université de Bordeaux) ; M2 Théorie des nombres (ENS de Lyon) ; M2 Mathématiques fondamentales (Sorbonne Université).
+  * Université Claude Bernard Lyon 1 & ENS Lyon
+  * Admissions obtenues en Master 2 : M2 AGTN (Université de Bordeaux) ; M2 Théorie des nombres (ENS Lyon) ; M2 Mathématiques fondamentales (Sorbonne Université).
   * Mémoire de Master 1 (2nd semestre)
     * Durée du stage : 6 mois
     * Encadrant : [Amaury Thuillier](<https://math.univ-lyon1.fr/homes-www/thuillier/>) 
