@@ -11,11 +11,11 @@ main:
   - title: "Recherche"
     url: /recherche/
 
-  - title: "Ressources"
-    url: /ressources/ 
-
   - title: "Exposés et séminaires"
-    url: /exposes-et-seminaires/    
+    url: /exposes-et-seminaires/
+
+  - title: "Ressources"
+    url: /ressources/     
     
   - title: "Khôlles"
     url: /kholles/
