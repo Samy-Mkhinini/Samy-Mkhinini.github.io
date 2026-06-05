@@ -5,6 +5,8 @@ permalink: /ressources/
 author_profile: true
 ---
 
-## Bienvenue
 
-Voici le contenu de mon nouvel onglet.
+Polycopié sur la vision foncteur de point d'un schéma :
+---
+
+[Algebraic Geometry, A. Debray](/files/Algebraic Geometry, Debray.pdf)
