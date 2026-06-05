@@ -40,9 +40,8 @@ Quelques ressources utiles pour découvrir les (magnifiques) maths sur lesquelle
 
 - Introduction à la théorie d'Iwasawa des courbes elliptiques : [Iwasawa theory for elliptic curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
 - Sur la théorie d'Iwasawa en général : [Iwasawa theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
-- Introduction aux systèmes d'Euler : [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
+- Théorie des systèmes d'Euler : [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
 - Travaux de Kolyvagin sur les courbes elliptiques modulaires : [Kolyvagin's work on modular elliptic curves, B. H. Gross](/files/Kolyvagin's work on modular elliptic curves, Gross.pdf)
-- Points de Heegner sur X0(N) : [Heegner points on X0(N), B. H. Gross](/files/Heegner points on X_0(N), Gross.pdf)
 - Pour lire les premières briques de ce qui deviendra les "déformations" : [A modular construction of unramified p-extensions of Q(μp), K. A. Ribet](/files/A modular construction of unramified p-extensions of Q(μ_p), Ribet.pdf)
 - Construction des fonctions L p-adiques : [On p-adic analogues of the conjectures of Birch and Swinnerton-Dyer, B. Mazur, J. Tate & J. Teitelbaum](/files/On p-adic analogues of the conjectures of Birch and Swinnerton-Dyer, Mazur.pdf)
 - Preuve de la formule de Gross-Zagier : [Heegner points and derivatives of L-series, B. H. Gross & D. B. Zagier](/files/Heegner points and derivatives of L-series, Gross.pdf)
