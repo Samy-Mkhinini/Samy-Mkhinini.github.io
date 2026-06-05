@@ -38,8 +38,8 @@ Stage de recherche de M2 (encadré par [Denis Benois](<https://www.math.u-bordea
 Quelques ressources utiles pour découvrir les (magnifiques) maths sur lesquelles je travaille
 ---
 
-- Mon article préféré ^^ : [Iwasawa theory for elliptic curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
-- Mon 2nd article préféré ^^ : [Kolyvagin's work on modular elliptic curves, B. H. Gross](/files/Kolyvagin's work on modular elliptic curves, Gross.pdf)
+- Introduction à la théorie d'Iwasawa des courbes elliptiques : [Iwasawa theory for elliptic curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
+- Introduction aux travaux de Kolyvagin sur les courbes elliptiques modulaires : [Kolyvagin's work on modular elliptic curves, B. H. Gross](/files/Kolyvagin's work on modular elliptic curves, Gross.pdf)
 - Pour lire les premières briques de ce qui deviendra les "déformations" : [A modular construction of unramified p-extensions of Q(μp), K. A. Ribet](/files/A modular construction of unramified p-extensions of Q(μ_p), Ribet.pdf)
 - Construction des fonctions L p-adiques : [On p-adic analogues of the conjectures of Birch and Swinnerton-Dyer, B. Mazur, J. Tate & J. Teitelbaum](/files/On p-adic analogues of the conjectures of Birch and Swinnerton-Dyer, Mazur.pdf)
 - Preuve de la formule de Gross-Zagier : [Heegner points and derivatives of L-series, B. H. Gross & D. B. Zagier](/files/Heegner points and derivatives of L-series, Gross.pdf)
