@@ -11,14 +11,14 @@ main:
   - title: "Recherche"
     url: /recherche/
 
+  - title: "Ressources"
+    url: /ressources/ 
+
   - title: "Exposés et séminaires"
     url: /exposes-et-seminaires/    
 
   - title: "Enseignement"
-    url: /enseignement/ 
-
-  - title: "Ressources"
-    url: /ressources/   
+    url: /enseignement/  
     
   - title: "Khôlles"
     url: /kholles/
