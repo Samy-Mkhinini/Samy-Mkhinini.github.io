@@ -15,7 +15,10 @@ main:
     url: /exposes-et-seminaires/    
 
   - title: "Enseignement"
-    url: /enseignement/    
+    url: /enseignement/ 
+
+  - title: "Ressources"
+    url: /ressources/   
     
   - title: "Khôlles"
     url: /kholles/
