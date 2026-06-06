@@ -18,7 +18,7 @@ Quelques livres de géométrie algébrique :
 - [Algebraic Geometry I. Schemes, U. Görtz & T. Wedhorn](/files/Algebraic Geometry I. Schemes, Gortz.pdf)
 - [Algebraic Geometry II. Cohomology of Schemes, U. Görtz & T. Wedhorn](/files/Algebraic Geometry II. Cohomology of Schemes, Gortz.pdf)
 
-Séminaire de géométrie algébrique du Bois Marie, animé par A. Grothendieck
+Séminaire de géométrie algébrique du Bois Marie (animé par A. Grothendieck) :
 ---
 
 - [SGA - I. Revêtements étales et groupe fondamental](/files/SGA - I. Revetements etales et groupe fondamental, Grothendieck.pdf)
@@ -27,3 +27,8 @@ Séminaire de géométrie algébrique du Bois Marie, animé par A. Grothendieck
 - [SGA - III. Schémas en groupes 2](/files/SGA - III. Schemas en groupes 2, Grothendieck.pdf)
 - [SGA - III. Schémas en groupes 3](/files/SGA - III. Schemas en groupes 3, Grothendieck.pdf)
 - [SGA - IV. Théorie des topos et cohomologie étale des schémas](/files/SGA - IV. Theorie des topos et cohomologie etale des schemas, Grothendieck.pdf)
+- [SGA - IV 1/2. Cohomologie étale](/files/SGA - IV 1/2. Cohomologie etale, Deligne.pdf)
+- [SGA - V. Cohomologie l-adique et Fonctions L](/files/SGA - V. Cohomologie l-adique et Fonctions L, Grothendieck.pdf)
+- [SGA - VI. Théorie des intersections et théorème de Riemann-Roch](/files/SGA - VI. Theorie des intersections et theoreme de Riemann-Roch, Grothendieck.pdf)
+- [SGA - VII. Groupes de monodromie en géométrie algébrique 1](/files/SGA - VII. Groupes de monodromie en geometrie algebrique 1, Grothendieck.pdf)
+- [SGA - VII. Groupes de monodromie en géométrie algébrique 2](/files/SGA - VII. Groupes de monodromie en geometrie algebrique 2, Grothendieck.pdf)
