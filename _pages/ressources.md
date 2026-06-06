@@ -14,9 +14,9 @@ Sur la vision foncteur de point d'un schéma :
 Séminaire de géométrie algébrique du Bois Marie, animé par A. Grothendieck
 ---
 
-- [SGA - I. Revêtements étales et groupe fondamental, A. Grothendieck](/files/SGA - I. Revetements etales et groupe fondamental, Grothendieck.pdf)
-- 
-- 
-- 
-- 
-- 
+- [SGA - I. Revêtements étales et groupe fondamental](/files/SGA - I. Revetements etales et groupe fondamental, Grothendieck.pdf)
+- [SGA - II. Cohomologie locale des faisceaux cohérents et théorèmes de Lefschetz locaux et globaux](/files/SGA - II. Cohomologie locale des faisceaux coherents et theoremes de Lefschetz locaux et globaux, Grothendieck.pdf)
+- [SGA - III. Schémas en groupes 1](/files/SGA - III. Schemas en groupes 1, Grothendieck)
+- [SGA - III. Schémas en groupes 2](/files/SGA - III. Schemas en groupes 2, Grothendieck.pdf)
+- [SGA - III. Schémas en groupes 3](/files/SGA - III. Schemas en groupes 3, Grothendieck.pdf)
+- [SGA - IV. Théorie des topos et cohomologie étale des schémas](/files/SGA - IV. Theorie des topos et cohomologie etale des schemas, Grothendieck.pdf)
