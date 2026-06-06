@@ -7,7 +7,7 @@ author_profile: true
 
 
 <h2>Les nombres p-adiques</h2>
-
+<div class="youtube-grid">
 <iframe
   class="youtube-video"
   src="https://www.youtube.com/embed/gfVvscTar9o"
@@ -23,7 +23,7 @@ author_profile: true
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
-
+</div>
 
 
 Sur la vision foncteur de points d'un schéma :
