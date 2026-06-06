@@ -39,14 +39,14 @@ Sur les courbes modulaires et les formes modulaires de Hilbert :
 - [Modular curves, D. Loeffler](/files/Modular curves, Loeffler.pdf)
 - [Hilbert modular forms and their applications, J. H. Bruinier](/files/Hilbert modular forms and their applications, Bruinier.pdf)
 
-Introduction à la théorie d'Iwasawa et aux fonctions L p-adiques :
+Théorie d'Iwasawa et fonctions L p-adiques :
 ---
 
 - [An introduction to p-adic L-functions, J. R. Jacinto & C. Williams](/files/An introduction to p-adic L-functions, Jacinto.pdf)
 - [Introduction to cyclotomic fields, L. C. Washington](/files/Introduction to cyclotomic fields, Washington.pdf)
 - [Cyclotomic fields and zeta values, J. Coates & R. Sujatha](/files/Cyclotomic fields and zeta values, Coates.pdf)
 
-Introduction à la théorie de Hodge p-adique :
+Théorie de Hodge p-adique :
 ---
 
 - [An introduction to p-adic Hodge theory, D. Benois](/files/An introduction to p-adic Hodge theory V2, Benois.pdf)
