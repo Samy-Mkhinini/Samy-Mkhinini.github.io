@@ -33,6 +33,35 @@ Sur la vision foncteur de points d'un schéma :
 - Notes de cours : [Algebraic Geometry, A. Debray](/files/Algebraic Geometry, Debray.pdf)
 - Une introduction aux représentations automorphes : [An Introduction to Automorphic Representations, J. R. Getz & H. Hahnn](/files/An introduction to automorphic representations, Getz.pdf)
 
+Sur les courbes modulaires et les formes modulaires de Hilbert :
+---
+
+- [Modular curves, D. Loeffler](/files/Modular curves, Loeffler.pdf)
+- [Hilbert modular forms and their applications, J. H. Bruinier](/files/Hilbert modular forms and their applications, Bruinier.pdf)
+
+Introduction à la théorie d'Iwasawa et aux fonctions L p-adiques :
+---
+
+- [An introduction to p-adic L-functions, J. R. Jacinto & C. Williams](/files/An introduction to p-adic L-functions, Jacinto.pdf)
+- [Introduction to cyclotomic fields, L. C. Washington](/files/Introduction to cyclotomic fields, Washington.pdf)
+- [Cyclotomic fields and zeta values, J. Coates & R. Sujatha](/files/Cyclotomic fields and zeta values, Coates.pdf)
+
+Introduction à la théorie de Hodge p-adique :
+---
+
+- [An introduction to p-adic Hodge theory, D. Benois](/files/An introduction to p-adic Hodge theory V2, Benois.pdf)
+- [p-adic Hodge theory, B. Bhatt & M. Olsson](/files/p-adic Hodge theory, Bhatt.pdf)
+- [Lectures on p-adic geometry, P. Scholze & J. Weinstein](/files/Lectures on p-adic geometry, Scholze.pdf)
+
+Motifs, périodes et transcendance :
+---
+
+- [Irrationality proofs for zeta values, moduli spaces and dinner parties, F. Brown](/files/Irrationality proofs for zeta values, moduli spaces and dinner parties, Brown.pdf)
+- [The linear independence of 1, ζ(2), and L(2,x−3), F. Calegari, V. Dimitrov & Y. Tang](/files/The linear independence of 1, ζ(2), and L(2,x−3), Calegari.pdf)
+- [On unipotent radicals of motivic Galois groups, P. Eskandari & K. Murty](/files/On unipotent radicals of motivic Galois groups, Eskandari.pdf)
+- [Mixed motives and linear forms in the Catalan constant, P. Eskandari, V. K. Murty & Y. Nemoto](/files/Mixed motives and linear forms in the Catalan constant, Eskandari.pdf)
+- [Periods, M. Kontsevich & D. Zagier](/files/Periods, Zagier.pdf)
+
 Quelques livres de géométrie algébrique :
 ---
 
