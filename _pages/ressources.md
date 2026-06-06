@@ -9,12 +9,12 @@ author_profile: true
 Sur la vision foncteur de point d'un schéma :
 ---
 
-- [Algebraic geometry, A. Debray](/files/Algebraic Geometry, Debray.pdf)
+- [Algebraic Geometry, A. Debray](/files/Algebraic Geometry, Debray.pdf)
 
 Quelques livres de géométrie algébrique :
 ---
 
-- [Algebraic geometry, R. Hartshorne](/files/Algebraic geometry, Hartshorne.pdf)
+- [Algebraic Geometry, R. Hartshorne](/files/Algebraic geometry, Hartshorne.pdf)
 - [Algebraic Geometry I. Schemes, U. Görtz & T. Wedhorn](/files/Algebraic Geometry I. Schemes, Gortz.pdf)
 - [Algebraic Geometry II. Cohomology of Schemes, U. Görtz & T. Wedhorn](/files/Algebraic Geometry II. Schemes, Gortz.pdf)
 
