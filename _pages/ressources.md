@@ -10,7 +10,7 @@ Sur la vision foncteur de point d'un schéma :
 ---
 
 - Notes de cours : [Algebraic Geometry, A. Debray](/files/Algebraic Geometry, Debray.pdf)
-- Introduction aux représentations automorphes : [An Introduction to Automorphic Representations, J. R. Getz & H. Hahnn](/files/An introduction to automorphic representations, Getz.pdf)
+- Une introduction aux représentations automorphes : [An Introduction to Automorphic Representations, J. R. Getz & H. Hahnn](/files/An introduction to automorphic representations, Getz.pdf)
 
 Quelques livres de géométrie algébrique :
 ---
