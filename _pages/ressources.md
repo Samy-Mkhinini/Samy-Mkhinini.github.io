@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 
+<h2>Les nombres p-adiques</h2>
+
+<iframe
+  class="youtube-video"
+  src="https://www.youtube.com/embed/gfVvscTar9o"
+  title="Xavier Caruso - Les nombres p-adiques"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
 Sur la vision foncteur de points d'un schéma :
 ---
 
