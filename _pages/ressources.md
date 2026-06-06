@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Sur la vision foncteur de point d'un schéma :
+Sur la vision foncteur de points d'un schéma :
 ---
 
 - Notes de cours : [Algebraic Geometry, A. Debray](/files/Algebraic Geometry, Debray.pdf)
