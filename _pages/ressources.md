@@ -9,7 +9,14 @@ author_profile: true
 Sur la vision foncteur de point d'un schéma :
 ---
 
-[Algebraic Geometry, A. Debray](/files/Algebraic Geometry, Debray.pdf)
+- [Algebraic Geometry, A. Debray](/files/Algebraic Geometry, Debray.pdf)
+
+Quelques livres de géométrie algébrique :
+---
+
+- [Algebraic geometry, R. Hartshorne](/files/Algebraic geometry, Hartshorne.pdf)
+- [Algebraic Geometry I. Schemes, Görtz](/files/Algebraic Geometry I. Schemes, Gortz.pdf)
+- [Algebraic Geometry II. Schemes, Görtz](/files/Algebraic Geometry II. Schemes, Gortz.pdf)
 
 Séminaire de géométrie algébrique du Bois Marie, animé par A. Grothendieck
 ---
