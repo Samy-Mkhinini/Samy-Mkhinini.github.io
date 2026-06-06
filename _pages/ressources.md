@@ -16,6 +16,16 @@ author_profile: true
   allowfullscreen>
 </iframe>
 
+<iframe
+  class="youtube-video"
+  src="https://www.youtube.com/embed/i4UXNnLVb98"
+  title="Le p-adique (ses merveilleuses applications)"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
+
+
 Sur la vision foncteur de points d'un schéma :
 ---
 

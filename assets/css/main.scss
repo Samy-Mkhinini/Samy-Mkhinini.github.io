@@ -56,11 +56,25 @@
   hyphens: auto;
 }
 
-.youtube-video {
+.youtube-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.youtube-grid .youtube-video {
   display: block;
   width: 100%;
-  max-width: 900px;
+  max-width: none;
   aspect-ratio: 16 / 9;
-  margin: 1.5rem auto 2.5rem;
+  margin: 0;
   border: 0;
+}
+
+/* Une seule vidéo par ligne sur téléphone */
+@media (max-width: 700px) {
+  .youtube-grid {
+    grid-template-columns: 1fr;
+  }
 }
