@@ -43,15 +43,15 @@ Théorie d'Iwasawa et fonctions L p-adiques :
 ---
 
 - [An introduction to p-adic L-functions, J. R. Jacinto & C. Williams](/files/An introduction to p-adic L-functions, Jacinto.pdf)
-- [Introduction to cyclotomic fields, L. C. Washington](/files/Introduction to cyclotomic fields, Washington.pdf)
-- [Cyclotomic fields and zeta values, J. Coates & R. Sujatha](/files/Cyclotomic fields and zeta values, Coates.pdf)
+- [Introduction to Cyclotomic Fields, L. C. Washington](/files/Introduction to cyclotomic fields, Washington.pdf)
+- [Cyclotomic Fields and Zeta Values, J. Coates & R. Sujatha](/files/Cyclotomic fields and zeta values, Coates.pdf)
 
 Théorie de Hodge p-adique :
 ---
 
 - [An introduction to p-adic Hodge theory, D. Benois](/files/An introduction to p-adic Hodge theory V2, Benois.pdf)
-- [p-adic Hodge theory, B. Bhatt & M. Olsson](/files/p-adic Hodge theory, Bhatt.pdf)
-- [Lectures on p-adic geometry, P. Scholze & J. Weinstein](/files/Lectures on p-adic geometry, Scholze.pdf)
+- [p-adic Hodge Theory, B. Bhatt & M. Olsson](/files/p-adic Hodge theory, Bhatt.pdf)
+- [Lectures on p-adic Geometry, P. Scholze & J. Weinstein](/files/Lectures on p-adic geometry, Scholze.pdf)
 
 Motifs, périodes et transcendance :
 ---
