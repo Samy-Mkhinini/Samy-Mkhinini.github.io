@@ -31,8 +31,8 @@ La pionnière de ce champ d'étude est [Bernadette Perrin-Riou](<https://www.imo
 Stage de recherche de M2 (encadré par [Denis Benois](<https://www.math.u-bordeaux.fr/~dbenoua/>))
 ---
 
-- Titre du mémoire : Théorie d'Iwasawa des courbes elliptiques - Travaux de Kolyvagin sur les courbes elliptiques modulaires et conjecture BSD.
-- Thèmes abordés : théorie d'Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), travaux de Kolyvagin sur les courbes elliptiques modulaires, points de Heegner, systèmes d'Euler et dualité de Poitou-Tate.
+- **Titre du mémoire :** Théorie d'Iwasawa des courbes elliptiques - Travaux de Kolyvagin sur les courbes elliptiques modulaires et conjecture BSD.
+- **Thèmes abordés :** théorie d'Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), travaux de Kolyvagin sur les courbes elliptiques modulaires, points de Heegner, systèmes d'Euler et dualité de Poitou-Tate.
 
 
 Quelques ressources utiles pour découvrir les (magnifiques) maths sur lesquelles je travaille
