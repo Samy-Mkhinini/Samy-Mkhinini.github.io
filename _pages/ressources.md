@@ -26,6 +26,8 @@ author_profile: true
 </iframe>
 </div>
 
+- [Nombres p-adiques, représentations galoisiennes et leurs propriétés arithmétiques, Fontaine](/files/Nombres p-adiques, representations galoisiennes et leurs proprietes arithmetiques, Fontaine.pdf)
+
 
 Sur la vision foncteur de points d'un schéma :
 ---
