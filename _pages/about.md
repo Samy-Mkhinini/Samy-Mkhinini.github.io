@@ -14,6 +14,8 @@ redirect_from:
 Bonjour ! Je m'appelle Samy Mkhinini. Je suis un étudiant en mathématiques fondamentales ayant comme champ de recherche la théorie algébrique des nombres. Passionné par l'arithmétique, je m'intéresse notamment à l'arithmétique des courbes elliptiques, à la théorie d'Iwasawa, aux systèmes d'Euler, aux fonctions \(L\) \(p\)-adiques, aux déformations des représentations galoisiennes, à la théorie de Hodge \(p\)-adique et au programme de Langlands.
 </p>
 
+À la rentrée prochaine, je vais débuter mon doctorat (PhD) sous la direction de [Antonio Lei](<https://antoniolei.com/recherche/>) à uOttawa.
+
 <p>
 L’un des problèmes majeurs de la théorie des nombres est l'étude des groupes de cohomologie des représentations galoisiennes globales, notamment la relation entre ces groupes de cohomologie et les valeurs des fonctions L. Un outil essentiel dans cette étude est la théorie des systèmes d’Euler. Ceux-ci consistent en des collections de classes de cohomologie associées à une représentation galoisienne donnée sur des extensions abéliennes du corps de base, et satisfaisant des conditions de compatibilité lorsque le corps varie. Ces systèmes ont de puissantes applications dans l’étude des groupes de Selmer et sont, de ce fait, très difficiles à construire.
 </p>
