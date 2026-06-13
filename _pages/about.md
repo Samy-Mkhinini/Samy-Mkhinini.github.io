@@ -15,7 +15,7 @@ Bonjour ! Je m'appelle Samy Mkhinini. Je suis un étudiant en mathématiques fon
 </p>
 
 <p>
-L’un des problèmes majeurs de la théorie des nombres est l'étude des groupes de cohomologie des représentations galoisiennes globales, notamment la relation entre ces groupes de cohomologie et les valeurs des fonctions L. Un outil essentiel dans cette étude est la théorie des systèmes d’Euler. Ceux-ci consistent en des collections de classes de cohomologie associées à une représentation galoisienne donnée sur des extensions abéliennes du corps de base, et satisfaisant des conditions de compatibilité lorsque le corps varie. Ces systèmes ont de puissantes applications dans l’étude des groupes de Selmer et sont, de ce fait, très difficiles à construire.
+L’un des problèmes majeurs de la théorie des nombres est l'étude des groupes de cohomologie des représentations galoisiennes globales, notamment la relation entre ces groupes de cohomologie et les valeurs des fonctions \(L\). Un outil essentiel dans cette étude est la théorie des systèmes d’Euler. Ceux-ci consistent en des collections de classes de cohomologie associées à une représentation galoisienne donnée sur des extensions abéliennes du corps de base, et satisfaisant des conditions de compatibilité lorsque le corps varie. Ces systèmes ont de puissantes applications dans l’étude des groupes de Selmer et sont, de ce fait, très difficiles à construire.
 </p>
 
 <p>
