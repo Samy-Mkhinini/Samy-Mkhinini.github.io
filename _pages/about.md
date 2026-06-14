@@ -15,7 +15,7 @@ Bonjour ! Je m'appelle Samy Mkhinini. Je suis un étudiant en mathématiques fon
 </p>
 
 <p>
-L’un des problèmes majeurs de la théorie des nombres est l'étude des groupes de cohomologie des représentations galoisiennes globales, notamment la relation entre ces groupes de cohomologie et les valeurs des fonctions \(L\). Un outil essentiel dans cette étude est la théorie des systèmes d’Euler. Ceux-ci consistent en des collections de classes de cohomologie associées à une représentation galoisienne donnée sur des extensions abéliennes du corps de base, et satisfaisant des conditions de compatibilité lorsque le corps varie. Ces systèmes ont de puissantes applications dans l’étude des groupes de Selmer et sont, de ce fait, très difficiles à construire.
+Un problème important en théorie des nombres concerne l'étude des groupes de cohomologie des représentations galoisiennes globales, notamment leurs liens avec les valeurs des fonctions \(L\). La théorie des systèmes d'Euler constitue un outil essentiel dans cette étude. Ces derniers consistent en des collections de classes de cohomologie associées à une représentation galoisienne donnée sur des extensions abéliennes du corps de base, et satisfaisant des conditions de compatibilité lorsque le corps varie. L’une des applications les plus puissantes de cette théorie réside dans l’étude des groupes de Selmer, qui seront présentés un peu plus loin sur cette page.
 </p>
 
 <p>
@@ -31,7 +31,7 @@ La pionnière de ce champ d'étude est [Bernadette Perrin-Riou](<https://www.imo
 Stage de recherche de M2 (encadré par [Denis Benois](<https://www.math.u-bordeaux.fr/~dbenoua/>))
 ---
 
-- **Titre du mémoire :** Théorie d'Iwasawa des courbes elliptiques - Travaux de Kolyvagin sur les courbes elliptiques modulaires et conjecture BSD.
+- **Titre du mémoire :** Théorie d'Iwasawa des courbes elliptiques, Travaux de Kolyvagin sur les courbes elliptiques modulaires et conjecture BSD.
 - **Thèmes abordés :** théorie d'Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), travaux de Kolyvagin sur les courbes elliptiques modulaires, points de Heegner, systèmes d'Euler et dualité de Poitou-Tate.
 
 
