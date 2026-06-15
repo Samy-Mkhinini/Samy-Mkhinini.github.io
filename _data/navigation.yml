@@ -15,7 +15,10 @@ main:
     url: /activites/
 
   - title: "Ressources"
-    url: /ressources/     
+    url: /ressources/ 
+
+  - title: "Enseignement"
+    url: /enseignement/    
     
   - title: "Khôlles"
     url: /kholles/
