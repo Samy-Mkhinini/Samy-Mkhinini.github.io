@@ -11,8 +11,8 @@ main:
   - title: "Recherche"
     url: /recherche/
 
-  - title: "Exposés et séminaires"
-    url: /exposes-et-seminaires/
+  - title: "Activités"
+    url: /activites/
 
   - title: "Ressources"
     url: /ressources/     
