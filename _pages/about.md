@@ -31,6 +31,7 @@ La pionnière de ce champ d'étude est [Bernadette Perrin-Riou](<https://www.imo
 Quelques ressources utiles pour découvrir les (magnifiques) maths sur lesquelles je travaille
 ---
 
+- Sur les nombres p-adiques : [Nombres p-adiques, représentations galoisiennes et leurs propriétés arithmétiques, J-M. Fontaine](/files/Nombres p-adiques, representations galoisiennes et leurs proprietes arithmetiques, Fontaine.pdf)
 - Introduction à la théorie d'Iwasawa des courbes elliptiques : [Iwasawa theory for elliptic curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
 - Sur la théorie d'Iwasawa en général : [Iwasawa theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
 - Théorie des systèmes d'Euler : [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
