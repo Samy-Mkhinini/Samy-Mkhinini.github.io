@@ -35,7 +35,7 @@ Sur la vision foncteur de points d'un schéma :
 - [Algebraic Geometry, A. Debray](/files/Algebraic Geometry, Debray.pdf)
 - [An Introduction to Automorphic Representations, J. R. Getz & H. Hahnn](/files/An introduction to automorphic representations, Getz.pdf)
 
-Courbes modulaires et formes modulaires de Hilbert :
+Sur les courbes modulaires et les formes modulaires de Hilbert :
 ---
 
 - [Modular curves, D. Loeffler](/files/Modular curves, Loeffler.pdf)
