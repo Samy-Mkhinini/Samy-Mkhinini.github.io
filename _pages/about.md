@@ -11,11 +11,11 @@ redirect_from:
 ---
 
 <p>
-Bonjour ! Je m'appelle Samy Mkhinini. Je suis un étudiant en mathématiques fondamentales ayant comme champ de recherche la théorie algébrique des nombres. Passionné par l'arithmétique, je m'intéresse notamment à l'arithmétique des courbes elliptiques, à la théorie d'Iwasawa, aux systèmes d'Euler, à la théorie de Hodge \(p\)-adique, aux fonctions \(L\) \(p\)-adiques, aux déformations des représentations galoisiennes et au programme de Langlands.
+Bonjour ! Je m'appelle Samy Mkhinini. Je suis un étudiant en mathématiques fondamentales ayant comme champ de recherche la théorie algébrique des nombres. Passionné par l'arithmétique, je m'intéresse notamment à l'arithmétique des courbes elliptiques, à la théorie d'Iwasawa, à la théorie des systèmes d'Euler, à la théorie de Hodge \(p\)-adique, aux fonctions \(L\) \(p\)-adiques, aux déformations des représentations galoisiennes et au programme de Langlands.
 </p>
 
 <p>
-Un problème important en théorie des nombres concerne l'étude des groupes de cohomologie des représentations galoisiennes globales, notamment leurs liens avec les valeurs des fonctions \(L\). La théorie des systèmes d'Euler constitue un outil essentiel dans cette étude. Ces derniers consistent en des collections de classes de cohomologie associées à une représentation galoisienne donnée sur des extensions abéliennes du corps de base, et satisfaisant certaines conditions de compatibilité. L’une des applications les plus puissantes de cette théorie réside dans l’étude des groupes de Selmer, qui seront présentés un peu plus bas sur cette page.
+Un problème important en théorie des nombres concerne l'étude des groupes de cohomologie des représentations galoisiennes globales, notamment leurs liens avec les valeurs des fonctions \(L\), et justement la théorie des systèmes d'Euler constitue un outil essentiel dans cette étude. Ces derniers consistent en des collections de classes de cohomologie associées à une représentation galoisienne donnée sur des extensions abéliennes du corps de base, et satisfaisant certaines conditions de compatibilité. L’une des applications les plus puissantes de cette théorie réside dans l’étude des groupes de Selmer, qui seront présentés un peu plus bas sur cette page.
 </p>
 
 <p>
