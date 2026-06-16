@@ -41,12 +41,12 @@ Sur les courbes modulaires et les formes modulaires de Hilbert :
 - [Modular curves, D. Loeffler](/files/Modular curves, Loeffler.pdf)
 - [Hilbert modular forms and their applications, J. H. Bruinier](/files/Hilbert modular forms and their applications, Bruinier.pdf)
 
-Sur le module de Wach :
+Sur le module de Wach d'une représentation cristalline :
 ---
 
 - [Limites de représentations cristallines, L. Berger](/files/Limites de representations cristallines, Berger.pdf)
 - [Explicit reciprocity laws in Iwasawa theory, O. Venjakob](/files/Explicit reciprocity laws in Iwasawa theory, Venjakob.pdf)
-- [Reciprocity laws for (φ_L, Γ_L)-modules over Lubin-Tate extensions, P. Schneider & O. Venjakob](/files/Reciprocity laws for (phi_L, gamma_L)-modules over Lubin-Tate extensions, Schneider.pdf)
+- [Reciprocity laws for (φ-L, Γ-L)-modules over Lubin-Tate extensions, P. Schneider & O. Venjakob](/files/Reciprocity laws for (phi_L, gamma_L)-modules over Lubin-Tate extensions, Schneider.pdf)
 - [Wach Modules and Iwasawa Theory for Modular Forms, A. Lei, D. Loeffler & S. L. Zerbes](/files/Wach Modules and Iwasawa Theory for Modular Forms, Lei.pdf)
 
 
