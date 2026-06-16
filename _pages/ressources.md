@@ -35,7 +35,7 @@ Sur la vision foncteur de points d'un schéma :
 - [Algebraic Geometry, A. Debray](/files/Algebraic Geometry, Debray.pdf)
 - [An Introduction to Automorphic Representations, J. R. Getz & H. Hahnn](/files/An introduction to automorphic representations, Getz.pdf)
 
-Sur les courbes modulaires et les formes modulaires de Hilbert :
+Courbes modulaires et formes modulaires de Hilbert :
 ---
 
 - [Modular curves, D. Loeffler](/files/Modular curves, Loeffler.pdf)
@@ -51,6 +51,7 @@ Théorie d'Iwasawa et fonctions L p-adiques :
 Théorie de Hodge p-adique :
 ---
 
+- [Limites de représentations cristallines, L. Berger](/files/Limites de représentations cristallines, Berger.pdf)
 - [An introduction to p-adic Hodge theory, D. Benois](/files/An introduction to p-adic Hodge theory V2, Benois.pdf)
 - [p-adic Hodge Theory, B. Bhatt & M. Olsson](/files/p-adic Hodge theory, Bhatt.pdf)
 - [Lectures on p-adic Geometry, P. Scholze & J. Weinstein](/files/Lectures on p-adic geometry, Scholze.pdf)
