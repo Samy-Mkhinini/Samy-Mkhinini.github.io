@@ -70,9 +70,9 @@ Théorie des systèmes d'Euler :
 ---
 
 - [An introduction to the conjecture of Bloch and Kato, J. Bellaïche](/files/An introduction to the conjecture of Bloch and Kato, Bellaiche.pdf)
+- [Euler systems and the Bloch-Kato conjecture, D. Loeffler & S. L. Zerbes](/files/Euler systems and the Bloch-Kato conjecture, Loeffler.pdf)
 - [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
 - [Euler systems, D. Loeffler & S. L. Zerbes](/files/Euler systems, Loeffler.pdf)
-- [Euler systems and the Bloch-Kato conjecture, D. Loeffler & S. L. Zerbes](/files/Euler systems and the Bloch-Kato conjecture, Loeffler.pdf)
 - [Euler systems for Hilbert modular spaces, A. Lei, D. Loeffler & S. L. Zerbes](/files/Euler systems for Hilbert modular spaces, Lei.pdf)
 
 
