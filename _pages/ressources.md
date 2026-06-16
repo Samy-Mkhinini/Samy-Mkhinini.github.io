@@ -41,12 +41,12 @@ Sur les courbes modulaires et les formes modulaires de Hilbert :
 - [Modular curves, D. Loeffler](/files/Modular curves, Loeffler.pdf)
 - [Hilbert modular forms and their applications, J. H. Bruinier](/files/Hilbert modular forms and their applications, Bruinier.pdf)
 
-Théorie d'Iwasawa et fonctions L p-adiques :
+Sur le module de Wach :
 ---
 
-- [An introduction to p-adic L-functions, J. R. Jacinto & C. Williams](/files/An introduction to p-adic L-functions, Jacinto.pdf)
-- [Introduction to Cyclotomic Fields, L. C. Washington](/files/Introduction to cyclotomic fields, Washington.pdf)
-- [Cyclotomic Fields and Zeta Values, J. Coates & R. Sujatha](/files/Cyclotomic fields and zeta values, Coates.pdf)
+- [Limites de représentations cristallines, L. Berger](/files/Limites de representations cristallines, Berger.pdf)
+- [Wach Modules and Iwasawa Theory for Modular Forms, A. Lei, D. Loeffler & S. L. Zerbes](/files/Wach Modules and Iwasawa Theory for Modular Forms, Lei.pdf)
+
 
 Théorie de Hodge p-adique :
 ---
@@ -56,12 +56,22 @@ Théorie de Hodge p-adique :
 - [p-adic Hodge Theory, B. Bhatt & M. Olsson](/files/p-adic Hodge theory, Bhatt.pdf)
 - [Lectures on p-adic Geometry, P. Scholze & J. Weinstein](/files/Lectures on p-adic geometry, Scholze.pdf)
 
+Théorie d'Iwasawa et fonctions L p-adiques :
+---
+
+- [Iwasawa theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
+- [Iwasawa theory for elliptic curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
+- [An introduction to p-adic L-functions, J. R. Jacinto & C. Williams](/files/An introduction to p-adic L-functions, Jacinto.pdf)
+- [Introduction to Cyclotomic Fields, L. C. Washington](/files/Introduction to cyclotomic fields, Washington.pdf)
+- [Cyclotomic Fields and Zeta Values, J. Coates & R. Sujatha](/files/Cyclotomic fields and zeta values, Coates.pdf)
+
 Théorie des systèmes d'Euler :
 ---
 
 - [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
-- [An introduction to the conjecture of Bloch and Kato, J. Bellaïche](/files/An introduction to the conjecture of Bloch and Kato, Bellaïche.pdf)
+- [Euler systems, D. Loeffler & S. L. Zerbes](/files/Euler systems, Loeffler.pdf)
 - [Euler systems and the Bloch-Kato conjecture, D. Loeffler & S. L. Zerbes](/files/Euler systems and the Bloch-Kato conjecture, Loeffler.pdf)
+- [An introduction to the conjecture of Bloch and Kato, J. Bellaïche](/files/An introduction to the conjecture of Bloch and Kato, Bellaiche.pdf)
 - [Euler systems for Hilbert modular spaces, A. Lei, D. Loeffler & S. L. Zerbes](/files/Euler systems for Hilbert modular spaces, Lei.pdf)
 
 
