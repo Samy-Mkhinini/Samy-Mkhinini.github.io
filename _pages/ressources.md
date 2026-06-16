@@ -45,6 +45,8 @@ Sur le module de Wach :
 ---
 
 - [Limites de représentations cristallines, L. Berger](/files/Limites de representations cristallines, Berger.pdf)
+- [Explicit reciprocity laws in Iwasawa theory, O. Venjakob](/files/Explicit reciprocity laws in Iwasawa theory, Venjakob.pdf)
+- [Reciprocity laws for (φ_L, Γ_L)-modules over Lubin-Tate extensions, P. Schneider & O. Venjakob](/files/Reciprocity laws for (phi_L, gamma_L)-modules over Lubin-Tate extensions, Schneider.pdf)
 - [Wach Modules and Iwasawa Theory for Modular Forms, A. Lei, D. Loeffler & S. L. Zerbes](/files/Wach Modules and Iwasawa Theory for Modular Forms, Lei.pdf)
 
 
