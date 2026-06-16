@@ -91,7 +91,7 @@ Quelques livres de géométrie algébrique :
 - [Algebraic Geometry, R. Hartshorne](/files/Algebraic geometry, Hartshorne.pdf)
 - [Algebraic Geometry I. Schemes, U. Görtz & T. Wedhorn](/files/Algebraic Geometry I. Schemes, Gortz.pdf)
 - [Algebraic Geometry II. Cohomology of Schemes, U. Görtz & T. Wedhorn](/files/Algebraic Geometry II. Cohomology of Schemes, Gortz.pdf)
-- [Intersection theory, W. Fulton](/files/Intersection theory, Fulton.pdf)
+- [Intersection Theory, W. Fulton](/files/Intersection theory, Fulton.pdf)
 
 Séminaire de géométrie algébrique du Bois Marie (animé par A. Grothendieck) :
 ---
