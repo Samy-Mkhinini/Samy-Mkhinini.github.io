@@ -60,7 +60,10 @@ Théorie des systèmes d'Euler :
 ---
 
 - [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
-- 
+- [An introduction to the conjecture of Bloch and Kato, J. Bellaïche](/files/An introduction to the conjecture of Bloch and Kato, Bellaïche.pdf)
+- [Euler systems and the Bloch-Kato conjecture, D. Loeffler & S. L. Zerbes](/files/Euler systems and the Bloch-Kato conjecture, Loeffler.pdf)
+- [Euler systems for Hilbert modular spaces, A. Lei, D. Loeffler & S. L. Zerbes](/files/Euler systems for Hilbert modular spaces, Lei.pdf)
+
 
 Motifs, périodes et transcendance :
 ---
