@@ -53,7 +53,6 @@ Sur le module de Wach d'une représentation cristalline :
 Théorie de Hodge p-adique :
 ---
 
-- [Limites de représentations cristallines, L. Berger](/files/Limites de representations cristallines, Berger.pdf)
 - [An introduction to p-adic Hodge theory, D. Benois](/files/An introduction to p-adic Hodge theory V2, Benois.pdf)
 - [p-adic Hodge Theory, B. Bhatt & M. Olsson](/files/p-adic Hodge theory, Bhatt.pdf)
 - [Lectures on p-adic Geometry, P. Scholze & J. Weinstein](/files/Lectures on p-adic geometry, Scholze.pdf)
