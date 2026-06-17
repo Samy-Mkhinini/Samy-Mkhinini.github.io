@@ -14,14 +14,14 @@ main:
   - title: "Activités"
     url: /activites/
 
-  - title: "Ressources"
-    url: /ressources/ 
-
   - title: "Enseignement"
     url: /enseignement/    
     
   - title: "Khôlles"
     url: /kholles/
+
+  - title: "Ressources"
+    url: /ressources/ 
         
   - title: "Cours particuliers"
     url: /cours-particuliers/
