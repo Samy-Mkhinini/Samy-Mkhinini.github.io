@@ -35,15 +35,7 @@ Sur la vision foncteur de points d'un schéma :
 - [Algebraic Geometry, A. Debray](/files/Algebraic Geometry, Debray.pdf)
 - [An Introduction to Automorphic Representations, J. R. Getz & H. Hahnn](/files/An introduction to automorphic representations, Getz.pdf)
 
-Sur le module de Wach d'une représentation cristalline :
----
-
-- [Limites de représentations cristallines, L. Berger](/files/Limites de representations cristallines, Berger.pdf)
-- [Explicit reciprocity laws in Iwasawa theory, O. Venjakob](/files/Explicit reciprocity laws in Iwasawa theory, Venjakob.pdf)
-- [Reciprocity laws for (φ-L, Γ-L)-modules over Lubin-Tate extensions, P. Schneider & O. Venjakob](/files/Reciprocity laws for (phi_L, gamma_L)-modules over Lubin-Tate extensions, Schneider.pdf)
-- [Wach Modules and Iwasawa Theory for Modular Forms, A. Lei, D. Loeffler & S. L. Zerbes](/files/Wach Modules and Iwasawa Theory for Modular Forms, Lei.pdf)
-
-Courbes elliptiques, courbes modulaires et formes modulaires :
+Sur les courbes elliptiques et les formes modulaires :
 ---
 
 - [The Arithmetic of Elliptic Curves, J. H. Silverman](/files/The arithmetic of elliptic curves, Silverman.pdf)
@@ -52,6 +44,14 @@ Courbes elliptiques, courbes modulaires et formes modulaires :
 - [Modular curves, D. Loeffler](/files/Modular curves, Loeffler.pdf)
 - [Rational points on modular elliptic curves, H. Darmon](/files/Rational points on modular elliptic curves, Darmon.pdf)
 - [Hilbert modular forms and their applications, J. H. Bruinier](/files/Hilbert modular forms and their applications, Bruinier.pdf)
+
+Sur le module de Wach d'une représentation cristalline :
+---
+
+- [Limites de représentations cristallines, L. Berger](/files/Limites de representations cristallines, Berger.pdf)
+- [Explicit reciprocity laws in Iwasawa theory, O. Venjakob](/files/Explicit reciprocity laws in Iwasawa theory, Venjakob.pdf)
+- [Reciprocity laws for (φ-L, Γ-L)-modules over Lubin-Tate extensions, P. Schneider & O. Venjakob](/files/Reciprocity laws for (phi_L, gamma_L)-modules over Lubin-Tate extensions, Schneider.pdf)
+- [Wach Modules and Iwasawa Theory for Modular Forms, A. Lei, D. Loeffler & S. L. Zerbes](/files/Wach Modules and Iwasawa Theory for Modular Forms, Lei.pdf)
 
 Théorie de Hodge p-adique :
 ---
