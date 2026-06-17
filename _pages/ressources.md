@@ -88,7 +88,7 @@ Motifs, périodes et transcendance :
 - [Mixed motives and linear forms in the Catalan constant, P. Eskandari, V. K. Murty & Y. Nemoto](/files/Mixed motives and linear forms in the Catalan constant, Eskandari.pdf)
 - [Periods, M. Kontsevich & D. B. Zagier](/files/Periods, Zagier.pdf)
 
-Quelques livres de géométrie algébrique/arithmétique :
+Quelques livres de géométrie algébrique :
 ---
 
 - [Algebraic Geometry, R. Hartshorne](/files/Algebraic geometry, Hartshorne.pdf)
