@@ -20,7 +20,7 @@ Formation
     * Thèmes : théorie d’Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), travaux de Kolyvagin sur les courbes elliptiques modulaires, conjecture de Birch et Swinnerton-Dyer, points de Heegner, systèmes d’Euler et dualité de Poitou-Tate.
   * Mémoire d'initiation à la recherche (1er semestre)
     * Encadrant : [Aurel Page](<https://www.normalesup.org/~page/>)
-    * Thème : Module de Tate l-adique et représentations galoisiennes.
+    * Sujet : Module de Tate l-adique et représentations galoisiennes.
   * Cours suivis : théorie algébrique des nombres ; géométrie algébrique ; théorie algorithmique des nombres ; algèbre homologique (théorie des catégories & cohomologie des faisceaux) ; théorie de Hodge p-adique.
 
 * **M1 Mathématiques générales/fondamentales (2023-2024)**
