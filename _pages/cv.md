@@ -41,8 +41,6 @@ Formation
   * Mémoire d'initiation à la recherche 
     * Sujet : Lien entre les revêtements ramifiés de surfaces de Riemann et la théorie de Galois.
   * Cours suivis : algèbre linéaire et bilinéaire ; théorie de la mesure ; théorie des groupes ; topologie des espaces métriques ; équations différentielles ; analyse complexe ;  analyse fonctionnelle ; anneaux et corps ; géométrie ; calcul différentiel, courbes et surfaces ; probabilités.
-  * Immersion au CIRM (Marseille, février 2023)
-    * Programme d’une semaine dans le cadre de mon initiation à la recherche.
 
 * **CPGE MPSI/MP (2020-2022)**
   * Préparation au concours X-ENS.
@@ -53,10 +51,10 @@ Formation
 
 Séminaires, masterclasses et conférences
 ===
-* Séminaire de théorie des nombres de Bordeaux, Institut de Mathématiques de Bordeaux (2024–2026).
+* Séminaire de théorie des nombres de Bordeaux, Institut de Mathématiques de Bordeaux (Talence, 2024–2026).
 * Masterclass Sophie Kowalevski (Angers, juin 2024)
   * Thème : groupe modulaire.
-* Semaine de conférences au CIRM (Marseille, février 2023)
+* ALCOCRYPT 2023 – ALgebraic and combinatorial methods for COding and CRYPTography (CIRM, Marseille)
   
   
 Enseignement
