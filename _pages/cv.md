@@ -17,7 +17,7 @@ Formation
   * Mémoire de master 2 (2nd semestre)
     * Durée du stage : 5 mois
     * Encadrant : [Denis Benois](<https://www.math.u-bordeaux.fr/~dbenoua/>)
-    * Thèmes : théorie d’Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), travaux de Kolyvagin sur les courbes elliptiques modulaires, points de Heegner, systèmes d’Euler et dualité de Poitou-Tate.
+    * Thèmes : théorie d’Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), travaux de Kolyvagin sur les courbes elliptiques modulaires, conjecture de Birch et Swinnerton-Dyer, points de Heegner, systèmes d’Euler et dualité de Poitou-Tate.
   * Mémoire d'initiation à la recherche (1er semestre)
     * Encadrant : [Aurel Page](<https://www.normalesup.org/~page/>)
     * Thème : Module de Tate l-adique et représentations galoisiennes.
