@@ -82,6 +82,7 @@ Théorie des systèmes d'Euler :
 Motifs, périodes et transcendance :
 ---
 
+- [Motives, U. Jannsen, S. Kleiman & J-P. Serre](/files/Motives, Serre.pdf)
 - [Irrationality proofs for zeta values, moduli spaces and dinner parties, F. Brown](/files/Irrationality proofs for zeta values, moduli spaces and dinner parties, Brown.pdf)
 - [The linear independence of 1, ζ(2), and L(2,x−3), F. Calegari, V. Dimitrov & Y. Tang](/files/The linear independence of 1, ζ(2), and L(2,x−3), Calegari.pdf)
 - [On unipotent radicals of motivic Galois groups, P. Eskandari & K. Murty](/files/On unipotent radicals of motivic Galois groups, Eskandari.pdf)
