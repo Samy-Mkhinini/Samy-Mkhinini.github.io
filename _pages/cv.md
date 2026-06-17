@@ -11,7 +11,7 @@ redirect_from:
 
 Formation
 ======
-* M2 AGTN — Algèbre, Géométrie, Théorie des Nombres (2024-2025)
+* **M2 AGTN — Algèbre, Géométrie, Théorie des Nombres (2024-2025)**
   * Université de Bordeaux — Institut de Mathématiques de Bordeaux (IMB)
   * Programme entièrement dispensé en anglais, en partenariat avec le programme international ALGANT.
   * Mémoire de master 2 (2nd semestre)
@@ -23,7 +23,7 @@ Formation
     * Thème : Module de Tate l-adique et représentations galoisiennes.
   * Cours suivis : théorie algébrique des nombres ; géométrie algébrique ; théorie algorithmique des nombres ; algèbre homologique (théorie des catégories & cohomologie des faisceaux) ; théorie de Hodge p-adique.
 
-* M1 Mathématiques générales/fondamentales (2023-2024)
+* **M1 Mathématiques générales/fondamentales (2023-2024)**
   * Université Claude Bernard Lyon 1 & ENS Lyon
   * Admissions obtenues en Master 2 : M2 AGTN (Université de Bordeaux) ; M2 Théorie des nombres (ENS Lyon) ; M2 Mathématiques fondamentales (Sorbonne Université).
   * Mémoire de Master 1 (2nd semestre)
@@ -36,7 +36,7 @@ Formation
   * Groupe de lecture : théorie de Morse
     * Référence : Morse Theory, J. Milnor.
 
-* L3 Mathématiques générales/fondamentales (2022-2023)
+* **L3 Mathématiques générales/fondamentales (2022-2023)**
   * Université Claude Bernard Lyon 1
   * Mémoire d'initiation à la recherche 
     * Sujet : Lien entre les revêtements ramifiés de surfaces de Riemann et la théorie de Galois.
@@ -44,11 +44,11 @@ Formation
   * Immersion au CIRM (Marseille, février 2023)
     * Programme d’une semaine dans le cadre de mon initiation à la recherche.
 
-* CPGE MPSI/MP (2020-2022)
+* **CPGE MPSI/MP (2020-2022)**
   * Préparation au concours X-ENS.
   * Abandon au 3e jour du concours X-ENS à cause d'une récidive de mes problèmes de santé passés.
 
-* Déscolarisé (2019-2020)
+* **Déscolarisé (2019-2020)**
   * Problèmes de santé.
 
 Séminaires, masterclasses et conférences
