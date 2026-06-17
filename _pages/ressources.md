@@ -35,13 +35,14 @@ Sur la vision foncteur de points d'un schéma :
 - [Algebraic Geometry, A. Debray](/files/Algebraic Geometry, Debray.pdf)
 - [An Introduction to Automorphic Representations, J. R. Getz & H. Hahnn](/files/An introduction to automorphic representations, Getz.pdf)
 
-Sur les courbes elliptiques, les courbes modulaires et les formes modulaires de Hilbert :
+Sur les courbes elliptiques, les courbes modulaires et les formes modulaires :
 ---
 
 - [The Arithmetic of Elliptic Curves, J. H. Silverman](/files/The arithmetic of elliptic curves, Silverman.pdf)
 - [Advanced Topics in the Arithmetic of Elliptic Curves, J. H. Silverman](/files/Advanced topics in the arithmetic of elliptic curves, Silverman.pdf)
 - [Rational points on modular elliptic curves, H. Darmon](/files/Rational points on modular elliptic curves, Darmon.pdf)
 - [Modular curves, D. Loeffler](/files/Modular curves, Loeffler.pdf)
+- [A First Course in Modular Forms, F. Diamond & J. Shurman](/files/A first course in modular forms, Diamond.pdf)
 - [Hilbert modular forms and their applications, J. H. Bruinier](/files/Hilbert modular forms and their applications, Bruinier.pdf)
 
 Sur le module de Wach d'une représentation cristalline :
@@ -58,7 +59,7 @@ Théorie de Hodge p-adique :
 
 - [An introduction to p-adic Hodge theory, D. Benois](/files/An introduction to p-adic Hodge theory V2, Benois.pdf)
 - [p-adic Hodge Theory, B. Bhatt & M. Olsson](/files/p-adic Hodge theory, Bhatt.pdf)
-- [Lectures on p-adic Geometry, P. Scholze & J. Weinstein](/files/Lectures on p-adic geometry, Scholze.pdf)
+- [Berkeley Lectures on p-adic Geometry, P. Scholze & J. Weinstein](/files/Lectures on p-adic geometry, Scholze.pdf)
 
 Théorie d'Iwasawa et fonctions L p-adiques :
 ---
