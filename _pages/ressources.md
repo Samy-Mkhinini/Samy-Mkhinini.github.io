@@ -94,7 +94,6 @@ Quelques livres de géométrie algébrique/arithmétique :
 - [Algebraic Geometry, R. Hartshorne](/files/Algebraic geometry, Hartshorne.pdf)
 - [Algebraic Geometry I. Schemes, U. Görtz & T. Wedhorn](/files/Algebraic Geometry I. Schemes, Gortz.pdf)
 - [Algebraic Geometry II. Cohomology of Schemes, U. Görtz & T. Wedhorn](/files/Algebraic Geometry II. Cohomology of Schemes, Gortz.pdf)
-- [Galois Groups and Fundamental Groups, T. Szamuely](/files/Galois Groups and Fundamental Groups, Szamuely.pdf)
 
 Séminaire de géométrie algébrique du Bois Marie (animé par A. Grothendieck) :
 ---
