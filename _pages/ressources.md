@@ -35,16 +35,6 @@ Sur la vision foncteur de points d'un schéma :
 - [Algebraic Geometry, A. Debray](/files/Algebraic Geometry, Debray.pdf)
 - [An Introduction to Automorphic Representations, J. R. Getz & H. Hahnn](/files/An introduction to automorphic representations, Getz.pdf)
 
-Sur les courbes elliptiques, les courbes modulaires et les formes modulaires :
----
-
-- [The Arithmetic of Elliptic Curves, J. H. Silverman](/files/The arithmetic of elliptic curves, Silverman.pdf)
-- [Advanced Topics in the Arithmetic of Elliptic Curves, J. H. Silverman](/files/Advanced topics in the arithmetic of elliptic curves, Silverman.pdf)
-- [A First Course in Modular Forms, F. Diamond & J. Shurman](/files/A first course in modular forms, Diamond.pdf)
-- [Modular curves, D. Loeffler](/files/Modular curves, Loeffler.pdf)
-- [Rational points on modular elliptic curves, H. Darmon](/files/Rational points on modular elliptic curves, Darmon.pdf)
-- [Hilbert modular forms and their applications, J. H. Bruinier](/files/Hilbert modular forms and their applications, Bruinier.pdf)
-
 Sur le module de Wach d'une représentation cristalline :
 ---
 
@@ -53,6 +43,15 @@ Sur le module de Wach d'une représentation cristalline :
 - [Reciprocity laws for (φ-L, Γ-L)-modules over Lubin-Tate extensions, P. Schneider & O. Venjakob](/files/Reciprocity laws for (phi_L, gamma_L)-modules over Lubin-Tate extensions, Schneider.pdf)
 - [Wach Modules and Iwasawa Theory for Modular Forms, A. Lei, D. Loeffler & S. L. Zerbes](/files/Wach Modules and Iwasawa Theory for Modular Forms, Lei.pdf)
 
+Courbes elliptiques, courbes modulaires et formes modulaires :
+---
+
+- [The Arithmetic of Elliptic Curves, J. H. Silverman](/files/The arithmetic of elliptic curves, Silverman.pdf)
+- [Advanced Topics in the Arithmetic of Elliptic Curves, J. H. Silverman](/files/Advanced topics in the arithmetic of elliptic curves, Silverman.pdf)
+- [A First Course in Modular Forms, F. Diamond & J. Shurman](/files/A first course in modular forms, Diamond.pdf)
+- [Modular curves, D. Loeffler](/files/Modular curves, Loeffler.pdf)
+- [Rational points on modular elliptic curves, H. Darmon](/files/Rational points on modular elliptic curves, Darmon.pdf)
+- [Hilbert modular forms and their applications, J. H. Bruinier](/files/Hilbert modular forms and their applications, Bruinier.pdf)
 
 Théorie de Hodge p-adique :
 ---
