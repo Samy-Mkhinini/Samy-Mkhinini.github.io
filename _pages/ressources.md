@@ -64,8 +64,8 @@ Théorie de Hodge p-adique :
 Théorie d'Iwasawa et fonctions L p-adiques :
 ---
 
-- [Iwasawa theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
-- [Iwasawa theory for elliptic curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
+- [Iwasawa Theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
+- [Iwasawa Theory for Elliptic Curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
 - [An introduction to p-adic L-functions, J. R. Jacinto & C. Williams](/files/An introduction to p-adic L-functions, Jacinto.pdf)
 - [Introduction to Cyclotomic Fields, L. C. Washington](/files/Introduction to cyclotomic fields, Washington.pdf)
 - [Cyclotomic Fields and Zeta Values, J. Coates & R. Sujatha](/files/Cyclotomic fields and zeta values, Coates.pdf)
@@ -108,6 +108,6 @@ Séminaire de géométrie algébrique du Bois Marie (animé par A. Grothendieck)
 - [SGA - IV. Théorie des topos et cohomologie étale des schémas](/files/SGA - IV. Theorie des topos et cohomologie etale des schemas, Grothendieck.pdf)
 - [SGA - IV 1/2. Cohomologie étale](/files/SGA - IV bis. Cohomologie etale, Deligne.pdf)
 - [SGA - V. Cohomologie l-adique et Fonctions L](/files/SGA - V. Cohomologie l-adique et Fonctions L, Grothendieck.pdf)
-- [SGA - VI. Théorie des intersections et théorème de Riemann-Roch](/files/SGA - VI. Theorie des intersections et theoreme de Riemann-Roch, Grothendieck.pdf)
-- [SGA - VII. Groupes de monodromie en géométrie algébrique 1](/files/SGA - VII. Groupes de monodromie en geometrie algebrique 1, Grothendieck.pdf)
-- [SGA - VII. Groupes de monodromie en géométrie algébrique 2](/files/SGA - VII. Groupes de monodromie en geometrie algebrique 2, Grothendieck.pdf)
+- [SGA - VI. Théorie des Intersections et Théorème de Riemann-Roch](/files/SGA - VI. Theorie des intersections et theoreme de Riemann-Roch, Grothendieck.pdf)
+- [SGA - VII. Groupes de Monodromie en Géométrie Algébrique 1](/files/SGA - VII. Groupes de monodromie en geometrie algebrique 1, Grothendieck.pdf)
+- [SGA - VII. Groupes de Monodromie en Géométrie Algébrique 2](/files/SGA - VII. Groupes de monodromie en geometrie algebrique 2, Grothendieck.pdf)
