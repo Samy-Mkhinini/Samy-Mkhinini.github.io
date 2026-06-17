@@ -38,10 +38,10 @@ Sur la vision foncteur de points d'un schéma :
 Sur les courbes elliptiques et les formes modulaires :
 ---
 
+- [Modular curves, D. Loeffler](/files/Modular curves, Loeffler.pdf)
 - [The Arithmetic of Elliptic Curves, J. H. Silverman](/files/The arithmetic of elliptic curves, Silverman.pdf)
 - [Advanced Topics in the Arithmetic of Elliptic Curves, J. H. Silverman](/files/Advanced topics in the arithmetic of elliptic curves, Silverman.pdf)
 - [A First Course in Modular Forms, F. Diamond & J. Shurman](/files/A first course in modular forms, Diamond.pdf)
-- [Modular curves, D. Loeffler](/files/Modular curves, Loeffler.pdf)
 - [Rational points on modular elliptic curves, H. Darmon](/files/Rational points on modular elliptic curves, Darmon.pdf)
 - [Hilbert modular forms and their applications, J. H. Bruinier](/files/Hilbert modular forms and their applications, Bruinier.pdf)
 
