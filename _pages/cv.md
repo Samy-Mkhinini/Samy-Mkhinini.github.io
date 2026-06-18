@@ -14,10 +14,11 @@ Formation
 * **M2 AGTN — Algèbre, Géométrie, Théorie des Nombres (2024-2025)**
   * Université de Bordeaux — Institut de Mathématiques de Bordeaux (IMB)
   * Programme entièrement dispensé en anglais, en partenariat avec le programme international ALGANT.
-  * Mémoire de master 2 (2nd semestre)
+  * Stage de recherche de M2 (2nd semestre)
     * Durée du stage : 5 mois
     * Encadrant : [Denis Benois](<https://www.math.u-bordeaux.fr/~dbenoua/>)
-    * Thèmes : théorie d’Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), travaux de Kolyvagin sur les courbes elliptiques modulaires, conjecture de Birch et Swinnerton-Dyer, points de Heegner, systèmes d’Euler et dualité de Poitou-Tate.
+    * Titre du mémoire : Théorie d'Iwasawa des courbes elliptiques - Travaux de Kolyvagin sur les courbes elliptiques modulaires et conjecture BSD.
+    * Thèmes abordés : théorie d’Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), travaux de Kolyvagin sur les courbes elliptiques modulaires, conjecture de Birch et Swinnerton-Dyer, points de Heegner, systèmes d’Euler et dualité de Poitou-Tate.
   * Mémoire d'initiation à la recherche (1er semestre)
     * Encadrant : [Aurel Page](<https://www.normalesup.org/~page/>)
     * Sujet : Module de Tate l-adique et représentations galoisiennes.
@@ -26,10 +27,11 @@ Formation
 * **M1 Mathématiques générales/fondamentales (2023-2024)**
   * Université Claude Bernard Lyon 1 & ENS Lyon
   * Admissions obtenues en Master 2 : M2 AGTN (Université de Bordeaux) ; M2 Théorie des nombres (ENS Lyon) ; M2 Mathématiques fondamentales (Sorbonne Université).
-  * Mémoire de Master 1 (2nd semestre)
+  * Stage de recherche de M1 (2nd semestre)
     * Durée du stage : 6 mois
     * Encadrant : [Amaury Thuillier](<https://math.univ-lyon1.fr/homes-www/thuillier/>) 
-    * Thèmes : arithmétique des courbes elliptiques, théorie de Galois et théorie du corps de classes.
+    * Titre du mémoire : Multiplication complexe et théorème d'Abel sur la lemniscate.
+    * Thèmes abordés : arithmétique des courbes elliptiques, théorie de Galois et théorie du corps de classes.
   * Mémoire d'histoire des mathématiques
     * Sujet : Le dernier théorème de Fermat, de Dirichlet à Wiles, et démonstration de Dirichlet du cas n = 5.
   * Cours suivis : probabilités et statistiques ; analyse fonctionnelle I et II ; anneaux, corps et représentations ; algèbre linéaire avancée ; géométrie différentielle ; géométrie différentielle avancée ; topologie algébrique ; combinatoire algébrique ; géométrie algébrique ; théorie analytique des nombres ; théorie algébrique des nombres ; théorie de Galois ; surfaces de Riemann ; histoire des mathématiques.
