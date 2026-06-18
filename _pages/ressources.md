@@ -65,6 +65,8 @@ Théorie d'Iwasawa et fonctions L p-adiques :
 
 - [Iwasawa Theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
 - [Iwasawa Theory for Elliptic Curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
+- [Lecture on the Iwasawa theory of elliptic curves, C. Skinner](/files/Lecture on the Iwasawa theory of elliptic curves, Skinner.pdf)
+- [Modular curves and cyclotomic fields, R. T. Sharifi](/files/Modular curves and cyclotomic fields, Sharifi.pdf)
 - [An introduction to p-adic L-functions, J. R. Jacinto & C. Williams](/files/An introduction to p-adic L-functions, Jacinto.pdf)
 - [Introduction to Cyclotomic Fields, L. C. Washington](/files/Introduction to cyclotomic fields, Washington.pdf)
 - [Cyclotomic Fields and Zeta Values, J. Coates & R. Sujatha](/files/Cyclotomic fields and zeta values, Coates.pdf)
@@ -96,6 +98,7 @@ Quelques livres de théorie des nombres :
 - [Basic Number Theory, A. Weil](/files/Basic number theory, Weil.pdf)
 - [A Course in Arithmetic, J-P. Serre](/files/A course in arithmetic, Serre.pdf)
 - [Corps locaux, J-P. Serre](/files/Corps locaux, Serre.pdf)
+- [Cohomologie Galoisienne, J-P. Serre](/files/Cohomologie galoisienne, Serre.pdf)
 - [Fourier Analysis on Number Fields, D. Ramakrishnan & R. J. Valenza](/files/Fourier analysis on number fields, Ramakrishnan.pdf)
 
 Quelques livres de géométrie algébrique :
