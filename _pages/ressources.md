@@ -92,8 +92,11 @@ Motifs, périodes et transcendance :
 Quelques livres de théorie des nombres :
 ---
 
-- [Algebraic Geometry, R. Hartshorne](/files/Algebraic geometry, Hartshorne.pdf)
-
+- [Number Theory, Z. I. Borevich & I. R. Shafarevich](/files/Number theory, Shafarevich.pdf)
+- [Basic Number Theory, A. Weil](/files/Basic number theory, Weil.pdf)
+- [A Course in Arithmetic, J-P. Serre](/files/A course in arithmetic, Serre.pdf)
+- [Corps locaux, J-P. Serre](/files/Corps locaux, Serre.pdf)
+- [Fourier Analysis on Number Fields, D. Ramakrishnan & R. J. Valenza](/files/Fourier analysis on number fields, Ramakrishnan.pdf)
 
 Quelques livres de géométrie algébrique :
 ---
