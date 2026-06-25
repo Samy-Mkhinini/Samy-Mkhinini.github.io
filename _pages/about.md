@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 <p>
-Bonjour ! Je m'appelle Samy Mkhinini. Je suis un étudiant en mathématiques fondamentales ayant comme champ de recherche la théorie algébrique des nombres. Passionné par l'arithmétique, je m'intéresse notamment à l'arithmétique des courbes elliptiques, à la théorie d'Iwasawa, à la théorie des systèmes d'Euler, à la théorie de Hodge \(p\)-adique, aux fonctions \(L\) \(p\)-adiques, aux déformations des représentations galoisiennes et au programme de Langlands. À la rentrée, je commencerai un doctorat (PhD) en mathématiques pures à l'université d'Ottawa sous la direction d'<a href="https://antoniolei.com/welcome/" target="_blank" rel="noopener noreferrer">Antonio Lei</a>, autour de la construction des systèmes d'Euler (à la croisée entre la théorie d'Iwasawa et la théorie de Hodge \(p\)-adique).
+Bonjour ! Je m'appelle Samy Mkhinini. Je suis un étudiant en mathématiques fondamentales ayant comme champ de recherche la théorie algébrique des nombres. Passionné par l'arithmétique, je m'intéresse notamment à l'arithmétique des courbes elliptiques, à la théorie d'Iwasawa, à la théorie des systèmes d'Euler, à la théorie de Hodge \(p\)-adique, aux fonctions \(L\) \(p\)-adiques, aux déformations des représentations galoisiennes et au programme de Langlands. À la rentrée, je commencerai un doctorat (PhD) en mathématiques pures à l'Université d'Ottawa sous la direction d'<a href="https://antoniolei.com/welcome/" target="_blank" rel="noopener noreferrer">Antonio Lei</a>, autour de la construction des systèmes d'Euler (à la croisée entre la théorie d'Iwasawa et la théorie de Hodge \(p\)-adique).
 </p>
 
 <p>
