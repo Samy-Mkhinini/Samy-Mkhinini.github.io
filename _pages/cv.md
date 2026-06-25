@@ -11,6 +11,10 @@ redirect_from:
 
 Formation
 ======
+* **Doctorate in Philosophy Mathematics and Statistics (2026-present)**
+  * University of Ottawa
+  * Advisor(s) : [Antonio Lei](<https://antoniolei.com/?lang=en_ca>)
+
 * **M2 AGTN — Algèbre, Géométrie, Théorie des Nombres (2024-2025)**
   * Université de Bordeaux — Institut de Mathématiques de Bordeaux (IMB)
   * Programme entièrement dispensé en anglais, en partenariat avec le programme international ALGANT.
