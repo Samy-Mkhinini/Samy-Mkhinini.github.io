@@ -16,7 +16,7 @@ Formation
   * Supervisor(s) : 
     * [Antonio Lei](<https://antoniolei.com/?lang=en_ca>)
     * ...
-  * Subject : Construction of Euler systems.
+  * Research topic : Construction of Euler systems.
 
 * **M2 AGTN — Algèbre, Géométrie, Théorie des Nombres (2024-2025)**
   * Université de Bordeaux — Institut de Mathématiques de Bordeaux (IMB)
