@@ -57,14 +57,7 @@ Formation
   * Abandon au 3e jour du concours X-ENS à cause d'une récidive de mes problèmes de santé passés.
 
 * **Déscolarisé (2019-2020)**
-  * Problèmes de santé.
-
-Séminaires, masterclasses et conférences
-===
-* Séminaire de théorie des nombres de Bordeaux, Institut de Mathématiques de Bordeaux (Talence, 2024–2026).
-* Masterclass Sophie Kowalevski (Angers, juin 2024)
-  * Thème : groupe modulaire.
-* ALCOCRYPT 2023 – ALgebraic and combinatorial methods for COding and CRYPTography (CIRM, Marseille)
+  * Problèmes de santé.  
   
   
 Enseignement
