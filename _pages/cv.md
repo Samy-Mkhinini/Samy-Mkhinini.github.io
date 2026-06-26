@@ -63,7 +63,7 @@ Formation
 Enseignement
 ======
 * Khôlleur de mathématiques en CPGE (3h/semaine)
-  * Lieu : Lycée Montaigne, Bordeaux (France)
+  * Lieu : Lycée Montaigne, Bordeaux
   * Période : année universitaire 2025-2026
 
   
