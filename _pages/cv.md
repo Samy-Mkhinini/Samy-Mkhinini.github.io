@@ -59,10 +59,12 @@ Formation
 * **Déscolarisé (2019-2020)**
   * Problèmes de santé.  
   
-  
+
 Enseignement
 ======
-* Khôlleur de mathématiques en CPGE, Lycée Montaigne (Bordeaux, 2025-2026)
+* Khôlleur de mathématiques en CPGE (3h/semaine)
+  * Lieu : Lycée Montaigne, Bordeaux (France)
+  * Période : année universitaire 2025-2026
 
   
 Compétences informatiques
