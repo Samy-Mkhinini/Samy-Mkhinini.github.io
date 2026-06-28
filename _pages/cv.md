@@ -14,7 +14,7 @@ Formation
 * **Doctorate in Philosophy Mathematics and Statistics (2026-present)**
   * University of Ottawa, Ontario, Canada.
   * ...
-  * Supervisor(s) : 
+  * Advisor(s) : 
     * [Antonio Lei](<https://antoniolei.com/?lang=en_ca>)
     * ...
   * Research topic : construction of Euler systems.
