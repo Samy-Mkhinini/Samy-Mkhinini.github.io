@@ -12,7 +12,7 @@ redirect_from:
 Formation
 ======
 * **Doctorate in Philosophy Mathematics and Statistics (2026-present)**
-  * University of Ottawa, Ontario, Canada.
+  * University of Ottawa, Ontario, Canada
   * ...
   * Advisor(s) : 
     * [Antonio Lei](<https://antoniolei.com/?lang=en_ca>)
