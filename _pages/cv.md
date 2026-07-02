@@ -11,8 +11,8 @@ redirect_from:
 
 Formation
 ======
-* **Doctorate in Philosophy Mathematics and Statistics (2026-present)**
-  * Advisors : 
+* **PhD in Mathematics (2026-present)**
+  * Advisors: 
     * Thesis supervisor: [Antonio Lei](<https://antoniolei.com/?lang=en_ca>), University of Ottawa (Ottawa, Canada)
     * Research mentor: [Henri Darmon](<https://www.math.mcgill.ca/darmon/index.html>), McGill University (Montreal, Canada)
   * Research topic : construction of Euler systems.
