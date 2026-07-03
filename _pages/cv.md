@@ -15,7 +15,6 @@ Formation
   * Advisors: 
     * Thesis supervisor: [Antonio Lei](<https://antoniolei.com/?lang=en_ca>), University of Ottawa (Ottawa, Canada)
     * Research mentor: [Henri Darmon](<https://www.math.mcgill.ca/darmon/index.html>), McGill University (Montreal, Canada)
-  * Topic: Construction of Euler systems.
 
 * **M2 AGTN — Algèbre, Géométrie, Théorie des Nombres (2024-2025)**
   * Université de Bordeaux — Institut de Mathématiques de Bordeaux (IMB)
