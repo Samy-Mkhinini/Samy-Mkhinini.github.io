@@ -15,7 +15,7 @@ Bonjour ! Je m'appelle Samy Mkhinini. Je suis un étudiant en mathématiques fon
 </p>
 
 <p>
-Un problème important en théorie des nombres concerne l'arithmétique des représentations galoisiennes globales, notamment leurs liens avec les valeurs des fonctions \(L\). Dans ce cadre, un outil central est la théorie des systèmes d'Euler. Ces derniers consistent en des collections de classes de cohomologie associées à une représentation galoisienne donnée sur des extensions abéliennes du corps de base, et satisfaisant certaines conditions de compatibilité. Cependant, la construction des systèmes d'Euler est un problème très difficile. L’une des applications les plus puissantes de cette théorie réside l’étude des groupes de Selmer, dont je parle un peu plus bas.
+Un problème important en théorie des nombres concerne l'arithmétique des représentations galoisiennes globales, notamment leurs liens avec les valeurs des fonctions \(L\). Dans ce cadre, un outil central est la théorie des systèmes d'Euler. Ces derniers consistent en des collections de classes de cohomologie associées à une représentation galoisienne donnée sur des extensions abéliennes du corps de base, et satisfaisant certaines conditions de compatibilité. Cependant, la construction des systèmes d'Euler est un problème très difficile. L’une des applications les plus puissantes de cette théorie réside dans l’étude des groupes de Selmer, dont je parle un peu plus bas.
 </p>
 
 <p>
