@@ -11,7 +11,7 @@ redirect_from:
 
 Formation
 ======
-* **PhD in Mathematics (2026-present)**
+* **PhD in Mathematics (september 2026 - present)**
   * Thesis supervisor: [Antonio Lei](<https://antoniolei.com/?lang=en_ca>), University of Ottawa (Ottawa, Canada)
   * Research mentor: [Henri Darmon](<https://www.math.mcgill.ca/darmon/index.html>), McGill University (Montreal, Canada)
 
