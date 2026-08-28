@@ -71,14 +71,16 @@ Théorie d'Iwasawa et fonctions L p-adiques :
 - [Introduction to Cyclotomic Fields, L. C. Washington](/files/Introduction to cyclotomic fields, Washington.pdf)
 - [Cyclotomic Fields and Zeta Values, J. Coates & R. Sujatha](/files/Cyclotomic fields and zeta values, Coates.pdf)
 
-Théorie des systèmes d'Euler :
+Théorie des systèmes d'Euler et conjecture de Bloch-Kato:
 ---
 
 - [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
 - [An introduction to the conjecture of Bloch and Kato, J. Bellaïche](/files/An introduction to the conjecture of Bloch and Kato, Bellaiche.pdf)
 - [Euler systems and the Bloch-Kato conjecture, D. Loeffler & S. L. Zerbes](/files/Euler systems and the Bloch-Kato conjecture, Loeffler.pdf)
 - [Euler systems, D. Loeffler & S. L. Zerbes](/files/Euler systems, Loeffler.pdf)
-- [Euler systems for Hilbert modular spaces, A. Lei, D. Loeffler & S. L. Zerbes](/files/Euler systems for Hilbert modular spaces, Lei.pdf)
+- [Autour des conjectures de Bloch et Kato : cohomologie galoisienne et valeurs de fonctions L, J-M. Fontaine & B. Perrin-Riou.pdf](/files/Autour des conjectures de Bloch et Kato - cohomologie galoisienne et valeurs de fonctions L, Fontaine.pdf)
+- [L-Functions and Tamagawa numbers of motives, S. Bloch & K. Kato](/files/L-Functions and Tamagawa numbers of motives, Bloch.pdf)
+
 
 
 Motifs, périodes et transcendance :
