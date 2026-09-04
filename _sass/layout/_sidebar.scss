@@ -212,6 +212,7 @@
   margin: 0;
   text-align: justify;
   text-justify: inter-word;
+  hyphens: auto;
 
   @include breakpoint($large) {
     margin-top: 10px;
