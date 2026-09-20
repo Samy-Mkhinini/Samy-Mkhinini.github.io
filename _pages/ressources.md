@@ -10,7 +10,7 @@ author_profile: true
 <div class="youtube-grid">
 <iframe
   class="youtube-video"
-  src="https://www.youtube.com/watch?v=_bJeKUosqoY"
+  src="https://www.youtube.com/embed/_bJeKUosqoY"
   title="The Biggest Project in Modern Mathematics"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
@@ -18,7 +18,7 @@ author_profile: true
 
 <iframe
   class="youtube-video"
-  src="https://www.youtube.com/watch?v=xuLCPv6smwo"
+  src="https://www.youtube.com/embed/xuLCPv6smwo"
   title="A Step Closer to a 'Grand Unified Theory of Math': Geometric Langlands"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
