@@ -97,13 +97,6 @@ author_profile: true
 
 - [Nombres p-adiques, représentations galoisiennes et leurs propriétés arithmétiques, J-M. Fontaine](/files/Nombres p-adiques, representations galoisiennes et leurs proprietes arithmetiques, Fontaine.pdf)
 
-
-The Functor of Points Perspective on Schemes:
----
-
-- [Algebraic Geometry, A. Debray](/files/Algebraic Geometry, Debray.pdf)
-- [An Introduction to Automorphic Representations, J. R. Getz & H. Hahnn](/files/An introduction to automorphic representations, Getz.pdf)
-
 Elliptic Curves and Modular Forms:
 ---
 
