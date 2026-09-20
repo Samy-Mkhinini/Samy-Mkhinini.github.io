@@ -41,40 +41,6 @@ author_profile: true
 </iframe>
 </div>
 
-<p>
-  <strong>Further reading:</strong>
-</p>
-
-<ul>
-  <li>
-    Alex Kontorovich,
-    <a href="https://www.quantamagazine.org/what-is-the-langlands-program-20220601/"
-       target="_blank" rel="noopener noreferrer">
-      <em>What Is the Langlands Program?</em>
-    </a>,
-    Quanta Magazine (2022)
-  </li>
-
-  <li>
-    Frank Calegari,
-    <a href="https://www.math.uchicago.edu/~fcale/papers/Survey.pdf"
-       target="_blank" rel="noopener noreferrer">
-      <em>Reciprocity in the Langlands Program since Fermat's Last Theorem</em>
-    </a>,
-    ICM (2022)
-  </li>
-
-  <li>
-    Edward Frenkel,
-    <a href="https://arxiv.org/pdf/hep-th/0512172"
-       target="_blank" rel="noopener noreferrer">
-      <em>Lectures on the Langlands Program and Conformal Field Theory</em>
-    </a>,
-    Springer (2007)
-  </li>
-</ul>
-
-
 <h2>p-adic Numbers</h2>
 
 <div class="youtube-grid">
