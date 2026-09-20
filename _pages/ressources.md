@@ -65,7 +65,7 @@ Elliptic Curves and Modular Forms:
 - [Rational points on modular elliptic curves, H. Darmon](/files/Rational points on modular elliptic curves, Darmon.pdf)
 - [Hilbert modular forms and their applications, J. H. Bruinier](/files/Hilbert modular forms and their applications, Bruinier.pdf)
 
-Wach Modules of Crystalline Representations:
+Wach Modules and Crystalline Representations:
 ---
 
 - [Limites de représentations cristallines, L. Berger](/files/Limites de representations cristallines, Berger.pdf)
@@ -91,7 +91,7 @@ Iwasawa Theory and p-adic L-functions:
 - [Introduction to Cyclotomic Fields, L. C. Washington](/files/Introduction to cyclotomic fields, Washington.pdf)
 - [Cyclotomic Fields and Zeta Values, J. Coates & R. Sujatha](/files/Cyclotomic fields and zeta values, Coates.pdf)
 
-Euler Systems and Bloch-Kato conjecture:
+Euler Systems and the Bloch-Kato conjecture:
 ---
 
 - [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
