@@ -23,7 +23,33 @@ author_profile: true
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
+
+<iframe
+  class="youtube-video"
+  src="https://www.youtube.com/embed/4dyytPboqvE"
+  title="The Langlands Program - Numberphile"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
+<iframe
+  class="youtube-video"
+  src="https://www.youtube.com/embed/nUN4NDVIfVI"
+  title="The Bridges to Fermat's Last Theorem - Numberphile"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 </div>
+
+<p>
+  <strong>Further reading:</strong>
+  Alex Kontorovich,
+  <a href="https://www.quantamagazine.org/what-is-the-langlands-program-20220601/"
+     target="_blank" rel="noopener noreferrer">
+    <em>What Is the Langlands Program?</em>
+  </a>
+  Quanta Magazine (2022)
+</p>
 
 
 <h2>p-adic Numbers</h2>
