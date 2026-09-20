@@ -99,7 +99,7 @@ Iwasawa Theory and p-adic L-functions:
 - [Introduction to Cyclotomic Fields, L. C. Washington](/files/Introduction to cyclotomic fields, Washington.pdf)
 - [Cyclotomic Fields and Zeta Values, J. Coates & R. Sujatha](/files/Cyclotomic fields and zeta values, Coates.pdf)
 
-Euler Systems and the Bloch-Kato conjecture:
+Euler Systems and the Bloch-Kato Conjecture:
 ---
 
 - [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
