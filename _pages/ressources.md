@@ -5,6 +5,26 @@ permalink: /ressources/
 author_profile: true
 ---
 
+<h2>Langlands program</h2>
+
+<div class="youtube-grid">
+<iframe
+  class="youtube-video"
+  src="https://www.youtube.com/watch?v=_bJeKUosqoY"
+  title="The Biggest Project in Modern Mathematics"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
+<iframe
+  class="youtube-video"
+  src="https://www.youtube.com/watch?v=xuLCPv6smwo"
+  title="A Step Closer to a 'Grand Unified Theory of Math': Geometric Langlands"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+</div>
+
 
 <h2>Les nombres p-adiques</h2>
 
