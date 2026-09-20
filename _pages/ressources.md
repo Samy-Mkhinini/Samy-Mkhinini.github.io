@@ -26,7 +26,7 @@ author_profile: true
 </div>
 
 
-<h2>Les nombres p-adiques</h2>
+<h2>p-adic Numbers</h2>
 
 <div class="youtube-grid">
 <iframe
@@ -49,13 +49,13 @@ author_profile: true
 - [Nombres p-adiques, représentations galoisiennes et leurs propriétés arithmétiques, J-M. Fontaine](/files/Nombres p-adiques, representations galoisiennes et leurs proprietes arithmetiques, Fontaine.pdf)
 
 
-Sur la vision foncteur de points d'un schéma :
+The Functor of Points Perspective on Schemes:
 ---
 
 - [Algebraic Geometry, A. Debray](/files/Algebraic Geometry, Debray.pdf)
 - [An Introduction to Automorphic Representations, J. R. Getz & H. Hahnn](/files/An introduction to automorphic representations, Getz.pdf)
 
-Sur les courbes elliptiques et les formes modulaires :
+Elliptic Curves and Modular Forms:
 ---
 
 - [Modular curves, D. Loeffler](/files/Modular curves, Loeffler.pdf)
@@ -65,7 +65,7 @@ Sur les courbes elliptiques et les formes modulaires :
 - [Rational points on modular elliptic curves, H. Darmon](/files/Rational points on modular elliptic curves, Darmon.pdf)
 - [Hilbert modular forms and their applications, J. H. Bruinier](/files/Hilbert modular forms and their applications, Bruinier.pdf)
 
-Sur le module de Wach d'une représentation cristalline :
+Wach Modules of Crystalline Representations:
 ---
 
 - [Limites de représentations cristallines, L. Berger](/files/Limites de representations cristallines, Berger.pdf)
@@ -73,14 +73,14 @@ Sur le module de Wach d'une représentation cristalline :
 - [Reciprocity laws for (φ-L, Γ-L)-modules over Lubin-Tate extensions, P. Schneider & O. Venjakob](/files/Reciprocity laws for (phi_L, gamma_L)-modules over Lubin-Tate extensions, Schneider.pdf)
 - [Wach Modules and Iwasawa Theory for Modular Forms, A. Lei, D. Loeffler & S. L. Zerbes](/files/Wach Modules and Iwasawa Theory for Modular Forms, Lei.pdf)
 
-Théorie de Hodge p-adique :
+p-adic Hodge Theory:
 ---
 
 - [An introduction to p-adic Hodge theory, D. Benois](/files/An introduction to p-adic Hodge theory V2, Benois.pdf)
 - [p-adic Hodge Theory, B. Bhatt & M. Olsson](/files/p-adic Hodge theory, Bhatt.pdf)
 - [Berkeley Lectures on p-adic Geometry, P. Scholze & J. Weinstein](/files/Lectures on p-adic geometry, Scholze.pdf)
 
-Théorie d'Iwasawa et fonctions L p-adiques :
+Iwasawa Theory and p-adic L-functions:
 ---
 
 - [Iwasawa Theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
@@ -91,7 +91,7 @@ Théorie d'Iwasawa et fonctions L p-adiques :
 - [Introduction to Cyclotomic Fields, L. C. Washington](/files/Introduction to cyclotomic fields, Washington.pdf)
 - [Cyclotomic Fields and Zeta Values, J. Coates & R. Sujatha](/files/Cyclotomic fields and zeta values, Coates.pdf)
 
-Théorie des systèmes d'Euler et conjecture de Bloch-Kato:
+Euler Systems and Bloch-Kato conjecture:
 ---
 
 - [Euler systems, K. Rubin](/files/Euler systems, Rubin.pdf)
@@ -103,7 +103,7 @@ Théorie des systèmes d'Euler et conjecture de Bloch-Kato:
 
 
 
-Motifs, périodes et transcendance :
+Motives, Periods and Transcendence:
 ---
 
 - [Motives, U. Jannsen, S. Kleiman & J-P. Serre](/files/Motives, Serre.pdf)
@@ -113,7 +113,7 @@ Motifs, périodes et transcendance :
 - [Mixed motives and linear forms in the Catalan constant, P. Eskandari, V. K. Murty & Y. Nemoto](/files/Mixed motives and linear forms in the Catalan constant, Eskandari.pdf)
 - [Periods, M. Kontsevich & D. B. Zagier](/files/Periods, Zagier.pdf)
 
-Quelques livres de théorie des nombres :
+Selected Books on Number Theory:
 ---
 
 - [Number Theory, Z. I. Borevich & I. R. Shafarevich](/files/Number theory, Shafarevich.pdf)
@@ -123,14 +123,14 @@ Quelques livres de théorie des nombres :
 - [Cohomologie Galoisienne, J-P. Serre](/files/Cohomologie galoisienne, Serre.pdf)
 - [Fourier Analysis on Number Fields, D. Ramakrishnan & R. J. Valenza](/files/Fourier analysis on number fields, Ramakrishnan.pdf)
 
-Quelques livres de géométrie algébrique :
+Selected Books on Algebraic Geometry:
 ---
 
 - [Algebraic Geometry, R. Hartshorne](/files/Algebraic geometry, Hartshorne.pdf)
 - [Algebraic Geometry I. Schemes, U. Görtz & T. Wedhorn](/files/Algebraic Geometry I. Schemes, Gortz.pdf)
 - [Algebraic Geometry II. Cohomology of Schemes, U. Görtz & T. Wedhorn](/files/Algebraic Geometry II. Cohomology of Schemes, Gortz.pdf)
 
-Séminaire de géométrie algébrique du Bois Marie (animé par A. Grothendieck) :
+Séminaire de Géométrie Algébrique du Bois Marie (animé par A. Grothendieck) :
 ---
 
 - [SGA - I. Revêtements étales et groupe fondamental](/files/SGA - I. Revetements etales et groupe fondamental, Grothendieck.pdf)
