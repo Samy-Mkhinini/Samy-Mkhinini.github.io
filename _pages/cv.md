@@ -14,6 +14,7 @@ Formation
 * **PhD in Mathematics (september 2026 - present)**
   * Thesis supervisor: [Antonio Lei](<https://antoniolei.com/?lang=en_ca>), University of Ottawa (Ottawa, Canada)
   * Research mentor: [Henri Darmon](<https://www.math.mcgill.ca/darmon/index.html>), McGill University (Montreal, Canada)
+  * Relevant coursework (in progress): p-adic L-functions; Motives, Periods and Transcendence; Algebra I; Algebra II; Topology I; Topology II...
 
 * **Pause avant le PhD (2025-2026)**
   * Repos et khôlles en CPGE.
@@ -25,7 +26,7 @@ Formation
     * Durée du stage : 5 mois
     * Encadrant : [Denis Benois](<https://www.math.u-bordeaux.fr/~dbenoua/>)
     * Titre du mémoire : Théorie d'Iwasawa des courbes elliptiques - Travaux de Kolyvagin sur les courbes elliptiques modulaires et conjecture BSD.
-    * Thèmes abordés : théorie d’Iwasawa (corps de nombres, fonctions L p-adiques, courbes elliptiques), travaux de Kolyvagin sur les courbes elliptiques modulaires, conjecture de Birch et Swinnerton-Dyer, points de Heegner, systèmes d’Euler et dualité de Poitou-Tate.
+    * Thèmes abordés : théorie d’Iwasawa, travaux de Kolyvagin sur les courbes elliptiques modulaires, conjecture de Birch et Swinnerton-Dyer, points de Heegner, systèmes d’Euler et dualité de Poitou-Tate.
   * Mémoire d'initiation à la recherche (1er semestre)
     * Encadrant : [Aurel Page](<https://www.normalesup.org/~page/>)
     * Sujet : Module de Tate l-adique et représentations galoisiennes.
