@@ -76,7 +76,7 @@ Talks
 Teaching
 ======
 * Oral Mathematics Examiner (colleur/khôlleur) in CPGE
-  * Location: Lycée Montaigne, Bordeaux
+  * Location: Lycée Montaigne, Bordeaux, France
   * Term: Full 2025-26 academic year
 
   
@@ -88,7 +88,7 @@ Computing Skills
 
 Languages
 ======
-* Français: native
+* French: native
 * English: B2-C1
 * Spanish: B1
 * Modern Standard Arabic: A2
