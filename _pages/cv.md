@@ -80,7 +80,7 @@ Teaching
   * Term: Full 2025-26 academic year
 
   
-Compétences informatiques
+Computing Skills
 ======
 * Computer algebra and programming: SageMath, Python.
 * LaTeX, Git/GitHub.
