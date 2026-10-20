@@ -63,12 +63,12 @@ Education
 Talks
 ======
 
-* Title: Heegner points and Kolyvagin's theorem on modular elliptic curves (1 talk)
+* **Heegner points and Kolyvagin's theorem on modular elliptic curves** (1 talk)
   * Date: October 29, 2026
   * Location: University of Montreal, Montreal, Canada
   * Graduate Student Seminar, organized by [Henri Darmon](<https://www.math.mcgill.ca/darmon/index.html>).
 
-* Title: Basic notions of modular forms (2 talks)
+* **Basic notions of modular forms** (2 talks)
   * Dates: October 19 & November 2, 2026
   * Location: University of Ottawa, Ottawa, Canada
   * Study group, organized by [Antonio Lei](<https://antoniolei.com/welcome/>) and [Ben Forrás](<https://bforras.eu/about.php>).
