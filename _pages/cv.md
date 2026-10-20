@@ -71,7 +71,7 @@ Talks
 * Title: Basic notions of modular forms (2 talks)
   * Dates: October 19 & November 2, 2026
   * Location: University of Ottawa, Ottawa, Canada
-  * Study group, organized by [Antonio Lei](<https://antoniolei.com/welcome/>) and [Ben Forrás](<https://bforras.eu/about.php>)
+  * Study group, organized by [Antonio Lei](<https://antoniolei.com/welcome/>) and [Ben Forrás](<https://bforras.eu/about.php>).
 
 Teaching
 ======
@@ -88,7 +88,7 @@ Compétences informatiques
 
 Languages
 ======
-* Français: native.
-* English: B2-C1.
-* Spanish: B1.
-* Modern Standard Arabic: A2.
+* Français: native
+* English: B2-C1
+* Spanish: B1
+* Modern Standard Arabic: A2
