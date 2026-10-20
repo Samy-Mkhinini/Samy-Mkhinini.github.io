@@ -30,7 +30,7 @@ Education
   * Introductory research project (1st semester)
     * Supervisor: [Aurel Page](<https://www.normalesup.org/~page/>)
     * Topic: l-adic Tate modules and Galois representations
-  * Coursework: algebraic number theory; algebraic geometry; algorithmic number theory; homological algebra (abelian categories & sheaf cohomology); p-adic Hodge theory
+  * Coursework: algebraic number theory; algebraic geometry; algorithmic number theory; homological algebra (abelian categories & cohomology of sheaves); p-adic Hodge theory
 
 * **M1 Pure Mathematics (2023—2024)**
   * Université Claude Bernard Lyon 1 & ENS Lyon
