@@ -34,7 +34,7 @@ Education
 
 * **M1 Pure Mathematics (2023—2024)**
   * Université Claude Bernard Lyon 1 & ENS Lyon
-  * Admitted to the following M2 programs: M2 AGTN (University of Bordeaux); M2 Number Theory (ENS Lyon); M2 Fundamental Mathematics (Sorbonne University)
+  * Admitted to the following M2 programs: M2 AGTN (University of Bordeaux), M2 Number Theory (ENS Lyon) and M2 Fundamental Mathematics (Sorbonne University)
   * M1 research internship (2nd semester)
     * Duration: 6 months
     * Supervisor: [Amaury Thuillier](<https://math.univ-lyon1.fr/homes-www/thuillier/>)
@@ -75,6 +75,14 @@ Talks
 
 Teaching
 ======
+* Introduction à l'algèbre linéaire (TA)
+  * Location: University of Ottawa, Ottawa, Canada
+  * Term: Fall 2026
+
+* Calcul différentiel et intégral (TA)
+  * Location: University of Ottawa, Ottawa, Canada
+  * Term: Fall 2026
+
 * Oral Mathematics Examiner (colleur/khôlleur) in CPGE
   * Location: Lycée Montaigne, Bordeaux, France
   * Term: Full 2025-26 academic year
