@@ -15,6 +15,7 @@ Education
   * Thesis supervisor: [Antonio Lei](<https://antoniolei.com/?lang=en_ca>), University of Ottawa (Ottawa, Canada)
   * Research mentor: [Henri Darmon](<https://www.math.mcgill.ca/darmon/index.html>), McGill University (Montreal, Canada)
   * Relevant coursework (in progress): p-adic L-functions; Motives, Periods, and Transcendence...
+  * Study group (in progress): Hida theory and more, ...
 
 * **Gap year before the PhD (2025—2026)**
   * Rest and work as an oral mathematics examiner in CPGE
