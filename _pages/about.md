@@ -30,11 +30,10 @@ En théorie d'Iwasawa des courbes elliptiques, on étudie la croissance des grou
 Quelques ressources utiles pour découvrir les (magnifiques) maths sur lesquelles je travaille
 ---
 
-- Sur les nombres p-adiques : [Nombres p-adiques, représentations galoisiennes et leurs propriétés arithmétiques, J-M. Fontaine](/files/Nombres p-adiques, representations galoisiennes et leurs proprietes arithmetiques, Fontaine.pdf)
 - Introduction à la théorie d'Iwasawa des courbes elliptiques : [Iwasawa Theory for Elliptic Curves, R. Greenberg](/files/Iwasawa theory for elliptic curves, Greenberg.pdf)
-- Sur la théorie d'Iwasawa en général : [Iwasawa Theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
+- Histoire de la théorie d'Iwasawa : [Iwasawa Theory - Past and Present, R. Greenberg](/files/Iwasawa theory - Past and present, Greenberg.pdf)
 - Travaux de Kolyvagin sur les courbes elliptiques modulaires : [Kolyvagin's work on modular elliptic curves, B. H. Gross](/files/Kolyvagin's work on modular elliptic curves, Gross.pdf)
+- Autour de la formule de Gross-Zagier : [Heegner points and derivatives of L-series, B. H. Gross & D. B. Zagier](/files/Heegner points and derivatives of L-series, Gross.pdf)
 - Pour lire les premières briques de ce qui deviendra les "déformations" : [A Modular Construction of Unramified p-Extensions of Q(μp), K. A. Ribet](/files/A modular construction of unramified p-extensions of Q(μ_p), Ribet.pdf)
 - Construction des fonctions L p-adiques : [On p-adic analogues of the conjectures of Birch and Swinnerton-Dyer, B. Mazur, J. Tate & J. Teitelbaum](/files/On p-adic analogues of the conjectures of Birch and Swinnerton-Dyer, Mazur.pdf)
-- Autour de la formule de Gross-Zagier : [Heegner points and derivatives of L-series, B. H. Gross & D. B. Zagier](/files/Heegner points and derivatives of L-series, Gross.pdf)
-- Sur la réciprocité de Langlands : [Langlands reciprocity : L-functions, Automorphic forms and Diophantine equations, M. Emerton](/files/Langlands reciprocity - L-functions, Automorphic forms and Diophantine equations, Emerton.pdf)
+- Autour de la réciprocité de Langlands : [Langlands reciprocity : L-functions, Automorphic forms and Diophantine equations, M. Emerton](/files/Langlands reciprocity - L-functions, Automorphic forms and Diophantine equations, Emerton.pdf)
