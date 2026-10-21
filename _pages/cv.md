@@ -75,15 +75,15 @@ Talks
 
 Teaching
 ======
-* Introduction à l'algèbre linéaire (TA)
+* **Introduction à l'algèbre linéaire (TA)**
   * Location: University of Ottawa, Ottawa, Canada
   * Term: Fall 2026
 
-* Calcul différentiel et intégral (TA)
+* **Calcul différentiel et intégral (TA)**
   * Location: University of Ottawa, Ottawa, Canada
   * Term: Fall 2026
 
-* Oral Mathematics Examiner (colleur/khôlleur) in CPGE
+* **Oral Mathematics Examiner (colleur/khôlleur) in CPGE**
   * Location: Lycée Montaigne, Bordeaux, France
   * Term: Full 2025-26 academic year
 
