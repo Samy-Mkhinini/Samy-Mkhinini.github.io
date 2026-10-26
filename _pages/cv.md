@@ -65,7 +65,7 @@ Talks
 ======
 
 * **Heegner points and Kolyvagin's theorem on modular elliptic curves (1 talk)**
-  * [Heegner points and Kolyvagin's theorem on modular elliptic curves](</files/talks/Heegner_points_and_Kolyvagin_s_theorem_on_modular_elliptic_curves__Samy_Mkhinini.pdf>) 
+  * Beamer: [Heegner points and Kolyvagin's theorem on modular elliptic curves](</files/talks/Heegner_points_and_Kolyvagin_s_theorem_on_modular_elliptic_curves__Samy_Mkhinini.pdf>) 
   * Date: October 29, 2026
   * Location: University of Montreal, Montreal, Canada
   * Graduate Student Seminar, organized by [Henri Darmon](<https://www.math.mcgill.ca/darmon/index.html>)
