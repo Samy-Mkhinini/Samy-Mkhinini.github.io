@@ -5,7 +5,7 @@ permalink: /ressources/
 author_profile: true
 ---
 
-<h2>The Langlands Program</h2>
+<h2>The Langlands Program and Fermat’s Last Theorem</h2>
 
 <div class="youtube-grid">
 <iframe
