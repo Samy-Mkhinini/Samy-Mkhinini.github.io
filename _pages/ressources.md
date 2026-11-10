@@ -134,6 +134,7 @@ Selected Books on Number Theory:
 Selected Books on Algebraic Geometry:
 ---
 
+- [Algebraic Geometry and Arithmetic Curves, Q. Liu](/files/Algebraic Geometry and Arithmetic Curves, Liu.pdf)
 - [Algebraic Geometry, R. Hartshorne](/files/Algebraic geometry, Hartshorne.pdf)
 - [Algebraic Geometry I. Schemes, U. Görtz & T. Wedhorn](/files/Algebraic Geometry I. Schemes, Gortz.pdf)
 - [Algebraic Geometry II. Cohomology of Schemes, U. Görtz & T. Wedhorn](/files/Algebraic Geometry II. Cohomology of Schemes, Gortz.pdf)
