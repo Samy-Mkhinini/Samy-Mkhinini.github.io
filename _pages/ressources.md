@@ -72,20 +72,13 @@ Elliptic Curves and Modular Forms:
 - [A First Course in Modular Forms, F. Diamond & J. Shurman](/files/A first course in modular forms, Diamond.pdf)
 - [Rational points on modular elliptic curves, H. Darmon](/files/Rational points on modular elliptic curves, Darmon.pdf)
 
-Wach Modules and Crystalline Representations:
----
-
-- [Limites de représentations cristallines, L. Berger](/files/Limites de representations cristallines, Berger.pdf)
-- [Explicit reciprocity laws in Iwasawa theory, O. Venjakob](/files/Explicit reciprocity laws in Iwasawa theory, Venjakob.pdf)
-- [Reciprocity laws for (φ-L, Γ-L)-modules over Lubin-Tate extensions, P. Schneider & O. Venjakob](/files/Reciprocity laws for (phi_L, gamma_L)-modules over Lubin-Tate extensions, Schneider.pdf)
-- [Wach Modules and Iwasawa Theory for Modular Forms, A. Lei, D. Loeffler & S. L. Zerbes](/files/Wach Modules and Iwasawa Theory for Modular Forms, Lei.pdf)
-
 p-adic Hodge Theory:
 ---
 
 - [An introduction to p-adic Hodge theory, D. Benois](/files/An introduction to p-adic Hodge theory V2, Benois.pdf)
 - [p-adic Hodge Theory, B. Bhatt & M. Olsson](/files/p-adic Hodge theory, Bhatt.pdf)
 - [Berkeley Lectures on p-adic Geometry, P. Scholze & J. Weinstein](/files/Lectures on p-adic geometry, Scholze.pdf)
+- [Limites de représentations cristallines, L. Berger](/files/Limites de representations cristallines, Berger.pdf)
 
 Iwasawa Theory and p-adic L-functions:
 ---
@@ -97,6 +90,9 @@ Iwasawa Theory and p-adic L-functions:
 - [An introduction to p-adic L-functions, J. R. Jacinto & C. Williams](/files/An introduction to p-adic L-functions, Jacinto.pdf)
 - [Introduction to Cyclotomic Fields, L. C. Washington](/files/Introduction to cyclotomic fields, Washington.pdf)
 - [Cyclotomic Fields and Zeta Values, J. Coates & R. Sujatha](/files/Cyclotomic fields and zeta values, Coates.pdf)
+- [Wach Modules and Iwasawa Theory for Modular Forms, A. Lei, D. Loeffler & S. L. Zerbes](/files/Wach Modules and Iwasawa Theory for Modular Forms, Lei.pdf)
+- [Explicit reciprocity laws in Iwasawa theory, O. Venjakob](/files/Explicit reciprocity laws in Iwasawa theory, Venjakob.pdf)
+- [Reciprocity laws for (φ-L, Γ-L)-modules over Lubin-Tate extensions, P. Schneider & O. Venjakob](/files/Reciprocity laws for (phi_L, gamma_L)-modules over Lubin-Tate extensions, Schneider.pdf)
 
 Euler Systems and the Bloch-Kato Conjecture:
 ---
