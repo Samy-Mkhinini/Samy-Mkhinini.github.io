@@ -71,7 +71,6 @@ Elliptic Curves and Modular Forms:
 - [Advanced Topics in the Arithmetic of Elliptic Curves, J. H. Silverman](/files/Advanced topics in the arithmetic of elliptic curves, Silverman.pdf)
 - [A First Course in Modular Forms, F. Diamond & J. Shurman](/files/A first course in modular forms, Diamond.pdf)
 - [Rational points on modular elliptic curves, H. Darmon](/files/Rational points on modular elliptic curves, Darmon.pdf)
-- [Hilbert modular forms and their applications, J. H. Bruinier](/files/Hilbert modular forms and their applications, Bruinier.pdf)
 
 Wach Modules and Crystalline Representations:
 ---
@@ -134,8 +133,8 @@ Selected Books on Number Theory:
 Selected Books on Algebraic Geometry:
 ---
 
-- [Algebraic Geometry and Arithmetic Curves, Q. Liu](/files/Algebraic Geometry and Arithmetic Curves, Liu.pdf)
 - [Algebraic Geometry, R. Hartshorne](/files/Algebraic geometry, Hartshorne.pdf)
+- [Algebraic Geometry and Arithmetic Curves, Q. Liu](/files/Algebraic Geometry and Arithmetic Curves, Liu.pdf)
 - [Algebraic Geometry I. Schemes, U. Görtz & T. Wedhorn](/files/Algebraic Geometry I. Schemes, Gortz.pdf)
 - [Algebraic Geometry II. Cohomology of Schemes, U. Görtz & T. Wedhorn](/files/Algebraic Geometry II. Cohomology of Schemes, Gortz.pdf)
 
