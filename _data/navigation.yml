@@ -15,19 +15,19 @@ main:
     url: /activites/
 
   - title: "Teaching"
-    url: /enseignement/    
+    url: /enseignement/  
+
+  - title: "Ressources"
+    url: /ressources/
+
+  - title: "CV"
+    url: /cv/   
     
   - title: "Khôlles"
     url: /kholles/
-
-  - title: "Ressources"
-    url: /ressources/ 
         
   - title: "Private Tutoring (FR)"
     url: /cours-particuliers/
-    
-  - title: "CV"
-    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
