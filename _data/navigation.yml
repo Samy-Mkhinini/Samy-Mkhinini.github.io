@@ -18,16 +18,16 @@ main:
     url: /enseignement/  
 
   - title: "Ressources"
-    url: /ressources/
-
-  - title: "CV"
-    url: /cv/   
+    url: /ressources/  
     
   - title: "Khôlles"
     url: /kholles/
         
   - title: "Private Tutoring (FR)"
     url: /cours-particuliers/
+
+  - title: "CV"
+    url: /cv/ 
     
   # - title: "CV"
   #   url: /cv-json/
