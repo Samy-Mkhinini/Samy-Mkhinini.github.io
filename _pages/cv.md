@@ -28,7 +28,7 @@ Education
     * Supervisor: [Denis Benois](<https://www.math.u-bordeaux.fr/~dbenoua/>)
     * Master's thesis: Iwasawa Theory of Elliptic Curves - Kolyvagin's Work on Modular Elliptic Curves and the BSD conjecture
     * Topics covered: Iwasawa theory of elliptic curves, Kolyvagin's work on modular elliptic curves, the Birch and Swinnerton-Dyer conjecture, Heegner points, Euler systems, and Poitou-Tate duality
-  * Introductory research project (1st semester)
+  * Research project (1st semester)
     * Supervisor: [Aurel Page](<https://www.normalesup.org/~page/>)
     * Topic: l-adic Tate modules and Galois representations
   * Coursework: algebraic number theory; algebraic geometry; algorithmic number theory; homological algebra (abelian categories & cohomology of sheaves); p-adic Hodge theory
@@ -49,7 +49,7 @@ Education
 
 * **L3 Pure Mathematics (2022—2023)**
   * Université Claude Bernard Lyon 1
-  * Introductory research project
+  * Research project
     * Topic: Relationship between branched coverings of Riemann surfaces and Galois theory
   * Coursework: linear and bilinear algebra; measure theory; group theory; topology of metric spaces; differential equations; complex analysis; functional analysis; rings and fields; geometry; differential calculus, curves and surfaces; probability
 
