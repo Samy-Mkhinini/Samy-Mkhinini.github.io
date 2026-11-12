@@ -60,6 +60,12 @@ Education
 * **No formal education (2019—2020)**
   * Health issues
 
+Honors and Awards
+======
+* **Harvard University — Selected for Participant Support (2026),** Current Developments in Mathematics 2026 (not utilized).
+* **University of Ottawa — Admission Scholarship (2026),** PhD in Mathematics.
+* **University of Ottawa — International Doctoral Scholarship (2026),** PhD in Mathematics.
+
 
 Talks
 ======
